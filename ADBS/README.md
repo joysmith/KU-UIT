@@ -30,7 +30,6 @@
 # 2. 🧪 Lab<a id='2'></a>
 
 1. [ ] Installation and configuration of Relational & NoSQL DBs
-No. of Hours
 1. [ ] Modeling and comparing data in Relational vs NoSQL (Document, Key-Value)
 1. [ ] Designing and querying distributed databases (replication, sharding demo)4Cloud database setup and access via API (Firebase / AWS RDS)CO1, CO42
 1. [ ] Role-Based Access Control (RBAC) configuration in SQLCO2, CO52
@@ -42,8 +41,12 @@ No. of Hours
 1. [ ] Secure data transmission with hashed values and digital signatures
 1. [ ] NoSQL data modeling and querying in MongoDB (Use Case Based)
 1. [ ] Cloud-based application using Firebase Realtime DB / Firestore
-
-
+1. [ ] Encryption Techniques for Securing Databases (AES & RSA)
+    - Symmetric Encryption Techniques for Securing Stored Data in Databases (e.g., AES)
+    - Asymmetric Encryption for Secure Database Communication and Key Management (e.g., RSA)
+1. [ ] Integrity and Authentication Techniques in Databases
+    - Hashing Methods for Data Integrity and Secure Password Storage in
+    - Databases Digital Signatures for Authenticating Database Transactions and Audit Log
 ---
 
 <br>

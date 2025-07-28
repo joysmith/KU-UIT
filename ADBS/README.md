@@ -30,8 +30,8 @@
 # 2. 🧪 Lab<a id='2'></a>
 
 1. [ ] Installation and configuration of Relational & NoSQL DBs [click me]()
-1. [ ] Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me]()
-1. [ ] Designing and querying distributed databases (replication, sharding demo)4Cloud database setup and access via API  [click me]()(Firebase / AWS RDS)
+2. [ ] Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me]()
+3. [ ] Designing and querying distributed databases (replication, sharding demo)4Cloud database setup and access via API  [click me]()(Firebase / AWS RDS)
 1. [ ] Role-Based Access Control (RBAC) configuration in SQLCO2, CO52 [click me]()
 1. [ ] Implementing user authentication and permission managementCO22 [click me]()
 1. [ ] SQL Injection Attack Demonstration and MitigationCO2, CO32 [click me]()

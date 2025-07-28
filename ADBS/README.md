@@ -29,22 +29,22 @@
 
 # 2. 🧪 Lab<a id='2'></a>
 
-1. [ ] Installation and configuration of Relational & NoSQL DBs [click me]()
-2. [ ] Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me]()
-3. [ ] Designing and querying distributed databases (replication, sharding demo)4Cloud database setup and access via API  [click me]()(Firebase / AWS RDS)
-1. [ ] Role-Based Access Control (RBAC) configuration in SQLCO2, CO52 [click me]()
-1. [ ] Implementing user authentication and permission managementCO22 [click me]()
-1. [ ] SQL Injection Attack Demonstration and MitigationCO2, CO32 [click me]()
-1. [ ] Vulnerability scanning using open-source toolsCO32 [click me]()
-1. [ ] Designing security policies and auditing database logsCO22 [click me]()
-1. [ ] Implementing symmetric and asymmetric encryption on stored dataCO52 [click me]()
-1. [ ] Secure data transmission with hashed values and digital signatures [click me]()
-1. [ ] NoSQL data modeling and querying in MongoDB (Use Case Based) [click me]()
-1. [ ] Cloud-based application using Firebase Realtime DB / Firestore [click me]()
-1. [ ] Encryption Techniques for Securing Databases (AES & RSA) [click me]()
+1. Installation and configuration of Relational & NoSQL DBs [click me]()
+1. Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me]()
+1. Designing and querying distributed databases (replication, sharding demo)4Cloud database setup and access via API  [click me]()(Firebase / AWS RDS)
+1. Role-Based Access Control (RBAC) configuration in SQLCO2, CO52 [click me]()
+1. Implementing user authentication and permission managementCO22 [click me]()
+1. SQL Injection Attack Demonstration and MitigationCO2, CO32 [click me]()
+1. Vulnerability scanning using open-source toolsCO32 [click me]()
+1. Designing security policies and auditing database logsCO22 [click me]()
+1. Implementing symmetric and asymmetric encryption on stored dataCO52 [click me]()
+1. Secure data transmission with hashed values and digital signatures [click me]()
+1. NoSQL data modeling and querying in MongoDB (Use Case Based) [click me]()
+1. Cloud-based application using Firebase Realtime DB / Firestore [click me]()
+1. Encryption Techniques for Securing Databases (AES & RSA) [click me]()
     - Symmetric Encryption Techniques for Securing Stored Data in Databases (e.g., AES)
     - Asymmetric Encryption for Secure Database Communication and Key Management (e.g., RSA)
-1. [ ] Integrity and Authentication Techniques in Databases [click me]()
+1. Integrity and Authentication Techniques in Databases [click me]()
     - Hashing Methods for Data Integrity and Secure Password Storage in
     - Databases Digital Signatures for Authenticating Database Transactions and Audit Log
 ---

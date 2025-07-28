@@ -10,6 +10,39 @@
 
 # 1. Syllabus<a id='1'></a>
 
+### UNIT 1:
+Define data mart, Relational vs NoSQL databases (document, key-value, graph, columnar), Distributed databases:
+fragmentation, replication, CAP theorem, Cloud database systems (Firebase, AWS RDS), Case studies and comparison
+frameworks
+
+### UNIT 2:
+Introduction to Access Control, Purpose and fundamentals of access control, Access control models: Discretionary Access
+Control (DAC), Non- Discretionary Access Control, Mandatory Access Control (MAC), Role Based Access Control
+(RBAC).
+Threat models and attack surfaces, SQL injection & hardening, How SQL Injection Works? Security policy design, Auditing
+and intrusion detection systems.
+Security Issues, Threats to Databases, Control Measures, Database Security and DBA
+
+### UNIT 3:
+Common vulnerabilities: SQLi - malicious SQL code injection, Bypass Authentication. XSS Attack, malicious scripts
+injection, stealing cookies, phishing attack. Buffer overflows, Remote code execution, Access Control Bypasses, DoS Attack.
+OWASP Top 10 for databases - Broken Authentication and Access Control, Security Misconfiguration, Insufficient Logging
+& Monitoring. Risk analysis, Risk Prioritization, Evaluation of severity of Risk, Risk mitigation strategies. Threat modelling,
+Threat prioritization, STRIDE & DREAD Model (risk scoring). Vulnerability scanning tools (e.g., SQLMap, OpenVAS),
+Mitigation techniques (Access control, monitoring and logging). security testing.
+
+### UNIT 4:
+NoSQL DBs, CRUD operations, MongoDB (Document based) & Cassandra (tabular/column format), setup, queries, Polyglot
+persistence (Multidatabase). Cloud databases: use cases in web/mobile apps, Backend Integration, Scalability, availability
+trade-offs (CAP Theorem (Consistency, Availability, Partition Tolerance), Hands-on demos, schema design and small project
+discussion (e.g. Inventory management using MongoDB)
+
+### UNIT 5:
+Applied Cryptography in Databases, Disk Protection, Field Encryption, Bulk Encryption (AES Algorithm), Transparent Data
+Encryption (TDE), Hashing, Digital Signature, Storage level encryption, Automatic decryption. Role-based access control
+(RBAC), Role Authorization with SQL DBs, Access Restriction. Implementation OF RBAC (Role based) using open-source
+tools – MongoDB, Cerbos, MariaDB, Casbin.
+
 0. [Basic setup and boiler plate](<assets/syllabus/00 topic.md>)
 1. [Basic knowledge of computer vision systems](<assets/syllabus/01 topic.md>)
 1. [Motion, object detection, Optical character recognition](<assets/syllabus/02 topic.md>)

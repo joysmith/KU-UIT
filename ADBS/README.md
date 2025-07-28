@@ -43,18 +43,6 @@ Encryption (TDE), Hashing, Digital Signature, Storage level encryption, Automati
 (RBAC), Role Authorization with SQL DBs, Access Restriction. Implementation OF RBAC (Role based) using open-source
 tools – MongoDB, Cerbos, MariaDB, Casbin.
 
-0. [Basic setup and boiler plate](<assets/syllabus/00 topic.md>)
-1. [Basic knowledge of computer vision systems](<assets/syllabus/01 topic.md>)
-1. [Motion, object detection, Optical character recognition](<assets/syllabus/02 topic.md>)
-1. [Lightings](<assets/syllabus/03 topic.md>)
-1. [2D-3D vision systems and image interpretation](<assets/syllabus/04 topic.md>)
-1. [Object tracking, multi target tracking](<assets/syllabus/05 topic.md>)
-1. [Image based rendering](<assets/syllabus/06 topic.md>)
-1. [Image segmentation](<assets/syllabus/07 topic.md>)
-1. [Industrial applications](<assets/syllabus/08 topic.md>)
-1. [Robot interface for vision data](<assets/syllabus/09 topic.md>)
-1. [Filtering techniques](<assets/syllabus/10 topic.md>)
-
 ---
 
 <br>

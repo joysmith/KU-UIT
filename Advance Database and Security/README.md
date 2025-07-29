@@ -1,3 +1,4 @@
+## Advance Database and Security: 73305001E01
 1. [Topics](#1)
 2. [Lab](#2)
 3. [Books](#3)
@@ -6,6 +7,13 @@
 6. [Self study](#6)
 
 <br>
+<br>
+
+
+### Prerequisite
+Basic knowledge of database systems (SQL, ER modeling), data structures, computer networks, and
+programming.
+
 <br>
 
 # 1. Syllabus<a id='1'></a>

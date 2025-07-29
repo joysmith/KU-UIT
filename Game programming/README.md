@@ -45,16 +45,16 @@ Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging
 
 # 2. 🧪 Lab<a id='2'></a>
 
-1. Implement 3D transformations (Translation, Rotation, Scaling) on a simple object using OpenGL or DirectX[click me]()
-2. Simulate basic ray tracing to render a 3D scene with lighting and shadows[click me]()
-3. Create a basic game engine loop including input handling, update logic, and rendering[click me]()
-4. Implement a resource manager for textures, audio, and 3D models using file I/O[click me]()
-5. Design a basic game application layer including game state management (menu, play, pause)[click me]()
-6. Implement event-driven logic and user interface (scoreboard, health bar) using a UI manager[click me]()
-7. Create a simple 2D game using Python and Pygame or Java (e.g., platformer or shooter)[click me]()
-8. Develop a basic 3D game scene using Unity or DX Studio with phys ics-based interactions[click me]()
-9. Develop a 2D tile-based game (e.g., maze or puzzle game) using DirectX or Python[click me]()
-10. Design a multiplayer game prototype using networking libraries in Unity or Python[click me]()
+1. Implement 3D transformations (Translation, Rotation, Scaling) on a simple object using OpenGL or DirectX [click me]()
+2. Simulate basic ray tracing to render a 3D scene with lighting and shadows [click me]()
+3. Create a basic game engine loop including input handling, update logic, and rendering [click me]()
+4. Implement a resource manager for textures, audio, and 3D models using file I/O [click me]()
+5. Design a basic game application layer including game state management (menu, play, pause) [click me]()
+6. Implement event-driven logic and user interface (scoreboard, health bar) using a UI manager [click me]()
+7. Create a simple 2D game using Python and Pygame or Java (e.g., platformer or shooter) [click me]()
+8. Develop a basic 3D game scene using Unity or DX Studio with phys ics-based interactions [click me]()
+9. Develop a 2D tile-based game (e.g., maze or puzzle game) using DirectX or Python [click me]()
+10. Design a multiplayer game prototype using networking libraries in Unity or Python [click me]()
 ---
 
 <br>

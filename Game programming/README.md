@@ -10,12 +10,11 @@
 <br>
 <br>
 
-# 1. Syllabus<a id='1'></a>
-
-#### Prerequisite
+### Prerequisite
 Mathematics for Graphics, Basic Computer Graphics Concepts, Object-Oriented Programming (OOP)
 
-<br>
+
+# 1. Syllabus<a id='1'></a>
 
 ### UNIT 1: 3D GRAPHICS FOR GAME PROGRAMMING
 3D Transformations: Translation, Rotation, Scaling; Quaternions; 3D Modeling and Rendering; Ray Tracing; Shader

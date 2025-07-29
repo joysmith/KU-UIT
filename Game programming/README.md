@@ -13,6 +13,7 @@
 ### Prerequisite
 Mathematics for Graphics, Basic Computer Graphics Concepts, Object-Oriented Programming (OOP)
 
+<br>
 
 # 1. Syllabus<a id='1'></a>
 

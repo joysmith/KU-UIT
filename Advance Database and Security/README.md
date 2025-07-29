@@ -18,12 +18,12 @@ programming.
 
 # 1. Syllabus<a id='1'></a>
 
-### UNIT 1:
+### UNIT 1: ADVANCED DATABASE ARCHITECTURE
 Define data mart, Relational vs NoSQL databases (document, key-value, graph, columnar), Distributed databases:
 fragmentation, replication, CAP theorem, Cloud database systems (Firebase, AWS RDS), Case studies and comparison
 frameworks
 
-### UNIT 2:
+### UNIT 2: EVALUATION OF DATABASE SECURITY MECHANISMS AND SECURITY ISSUES
 Introduction to Access Control, Purpose and fundamentals of access control, Access control models: Discretionary Access
 Control (DAC), Non- Discretionary Access Control, Mandatory Access Control (MAC), Role Based Access Control
 (RBAC).
@@ -31,7 +31,7 @@ Threat models and attack surfaces, SQL injection & hardening, How SQL Injection 
 and intrusion detection systems.
 Security Issues, Threats to Databases, Control Measures, Database Security and DBA
 
-### UNIT 3:
+### UNIT 3: VULNERABILITY IDENTIFICATION AND MITIGATION IN DATABASES
 Common vulnerabilities: SQLi - malicious SQL code injection, Bypass Authentication. XSS Attack, malicious scripts
 injection, stealing cookies, phishing attack. Buffer overflows, Remote code execution, Access Control Bypasses, DoS Attack.
 OWASP Top 10 for databases - Broken Authentication and Access Control, Security Misconfiguration, Insufficient Logging
@@ -39,13 +39,13 @@ OWASP Top 10 for databases - Broken Authentication and Access Control, Security 
 Threat prioritization, STRIDE & DREAD Model (risk scoring). Vulnerability scanning tools (e.g., SQLMap, OpenVAS),
 Mitigation techniques (Access control, monitoring and logging). security testing.
 
-### UNIT 4:
+### UNIT 4: APPLICATION OF NOSQL AND CLOUD DATABASE SYSTEMS
 NoSQL DBs, CRUD operations, MongoDB (Document based) & Cassandra (tabular/column format), setup, queries, Polyglot
 persistence (Multidatabase). Cloud databases: use cases in web/mobile apps, Backend Integration, Scalability, availability
 trade-offs (CAP Theorem (Consistency, Availability, Partition Tolerance), Hands-on demos, schema design and small project
 discussion (e.g. Inventory management using MongoDB)
 
-### UNIT 5:
+### UNIT 5: IMPLEMENTATION OF CRYPTOGRAPHIC AND ACCESS CONTROL MECHANISMS
 Applied Cryptography in Databases, Disk Protection, Field Encryption, Bulk Encryption (AES Algorithm), Transparent Data
 Encryption (TDE), Hashing, Digital Signature, Storage level encryption, Automatic decryption. Role-based access control
 (RBAC), Role Authorization with SQL DBs, Access Restriction. Implementation OF RBAC (Role based) using open-source

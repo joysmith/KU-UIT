@@ -47,6 +47,7 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 # 2. 🧪 Lab<a id='2'></a>
 
 1. Write a C++ program to demonstrate [click me]()
+
    a. Basic input/output, arithmetic operations.
    b. Temperature converter (Celsius ↔ Fahrenheit).
 

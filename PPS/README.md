@@ -146,9 +146,7 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 
 # 6. Self study online reference<a id='6'></a>
 
-1. [Database System Concepts](https://db-book.com)
-2. [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
-3. [MongoDB](https://www.mongodb.com/docs/manual/)
+1. [An Introduction to Programming Through C++](https://onlinecourses.nptel.ac.in/noc21_cs38/preview)
 
 # 7. Cool project on Internet
 

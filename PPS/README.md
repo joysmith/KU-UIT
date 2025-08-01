@@ -90,7 +90,6 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 1. Write a C++ program to demonstrate inheritance and function Overriding (Multiple, Hierarchical inheritance) [click me]()
 
 1. a. Write a C++ program to Write and read student data to/from a file using ofstream and ifstream [click me]()
-
    b. Write a C++ program to search and update student records stored in a file
 
 1. Write a C++ program to use exception handling to manage divide-by-zero or file open errors [click me]()

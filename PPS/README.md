@@ -48,49 +48,49 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 
 1. Write a C++ program to demonstrate [click me]()
 
-   a. Basic input/output, arithmetic operations.<br>
+   a. Basic input/output, arithmetic operations. <br>
    b. Temperature converter (Celsius ↔ Fahrenheit).
 
 1. Write a C++ program to find [click me]()
-   a. Even and odd numbers in a range<br>
+   a. Even and odd numbers in a range <br>
    b. The largest/smallest of 3 numbers
 
 1. Write a C++ program to find the sum of the digits of a number [click me]()
 
 1. Write a C++ program to calculate the factorial using [click me]()
-   a. For loop, while loop, and do-while loop<br>
+   a. For loop, while loop, and do-while loop <br>
    b. Recursion
 
 1. Write a C++ program to [click me]()
-   a. Find the Fibonacci series (loop & recursion) up to the number of terms suggested by the user.<br>
+   a. Find the Fibonacci series (loop & recursion) up to the number of terms suggested by the user. <br>
    b. To count vowels and consonants in a string.
 
 1. Write a C++ program
-   a. To find the prime numbers in a range [click me]()<br>
+   a. To find the prime numbers in a range [click me]() <br>
    b. To check for a palindrome string (using string)
 
 1. Write a C++ program to show the [click me]()
-   a. Matrix addition of 3x3 matrix<br>
+   a. Matrix addition of 3x3 matrix <br>
    b. Matrix multiplication of a 3x3 matrix
 
 1. Write a C++ program to implement function overloading [click me]()
 
 1. Write a C++ Program to create a [click me]()
-   a. Structure to store and display student details<br>
+   a. Structure to store and display student details <br>
    b. Nested structures for the address book
 
 1. Write a C++ program to demonstrate class [click me]()
-   a. Constructor<br>
+   a. Constructor <br>
    b. Destructor
 
-1. a. Write a C++ program for a Class with a function to calculate the area of shapes. [click me]()<br>
+1. a. Write a C++ program for a Class with a function to calculate the area of shapes. [click me]() <br>
    b. Write a C++ program to show the swapping using pointers
 
 1. Write a C++ program to demonstrate the dynamic memory allocation with new and delete [click me]()
 
 1. Write a C++ program to demonstrate inheritance and function Overriding (Multiple, Hierarchical inheritance) [click me]()
 
-1. a. Write a C++ program to Write and read student data to/from a file using ofstream and ifstream [click me]()<br>
+1. a. Write a C++ program to Write and read student data to/from a file using ofstream and ifstream [click me]() <br>
    b. Write a C++ program to search and update student records stored in a file
 
 1. Write a C++ program to use exception handling to manage divide-by-zero or file open errors [click me]()

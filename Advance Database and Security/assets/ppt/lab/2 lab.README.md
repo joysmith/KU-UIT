@@ -61,6 +61,8 @@ SELECT database();
 
 - [My SQL reference](https://dev.mysql.com/doc/refman/8.4/en/data-types.html)
 
+<br>
+
 #### How to create a new table inside database
 
 ```sql
@@ -81,3 +83,33 @@ CREATE TABLE dogs (
     age INT
 );
 ```
+
+<br>
+
+#### How to get structure of table
+
+```sql
+-- How to get all table from database
+SHOW tables;
+
+-- How to get columns/header with type of specific table
+SHOW COLUMNS FROM cats;
+
+-- (Shortcut) How to get columns/header with type of specific table
+DESC cats;
+```
+
+<br>
+
+#### How to delete a table from database
+
+To drop a table: DROP TABLE <table-name>;
+
+```sql
+DROP TABLE cats;
+```
+
+<br>
+<br>
+
+### Inserting Data into table

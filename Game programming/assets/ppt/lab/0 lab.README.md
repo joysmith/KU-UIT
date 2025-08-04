@@ -10,7 +10,6 @@
 
 ## Walk through with unity documentation
 1.  Unity 6.1 [documentation](https://docs.unity3d.com/Manual/index.html)
-2. 
 
 <br>
 <br>

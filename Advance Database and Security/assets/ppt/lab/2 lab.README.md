@@ -162,18 +162,18 @@ SELECT * FROM cats;
 
 <br>
 
-#### How to add NOT NULL constrain in table structure
+#### How to add NOT-NULL constrain in table structure
 
 ```sql
--- create new table cats2
-CREATE TABLE cats2 (
+-- create new table movie
+CREATE TABLE movie (
     name VARCHAR(100) NOT NULL,
     age INT NOT NULL
 );
 
 
 -- 🔴 (gives error) insert multiple data into cats2 table
-INSERT INTO cats (name, age)
+INSERT INTO movie(name, age)
 VALUES
   ('Tom', 5),
   ('Timmy', ),
@@ -181,7 +181,7 @@ VALUES
 
 
 -- ✅ insert multiple data into cats2 table
-INSERT INTO cats (name, age)
+INSERT INTO movie (name, age)
 VALUES
   ('Tom', 5),
   ('Timmy', 1),
@@ -189,3 +189,82 @@ VALUES
 ```
 
 <br>
+
+#### How to define table with default value
+
+```sql
+CREATE TABLE marvel  (
+    name VARCHAR(20) DEFAULT 'no name provided',
+    age INT DEFAULT 99
+);
+
+-- Notice the change when you describe the table:
+DESC marvel;
+
+-- Insert a marvel character without a name but give age:
+INSERT INTO marvel(age) VALUES(13);
+
+-- Or a nameless, ageless cat:
+INSERT INTO marvel() VALUES();
+```
+
+<br>
+
+#### How to add primary key aka (unique id)
+
+```sql
+-- One way of specifying a PRIMARY KEY
+CREATE TABLE songs (
+	song_id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL
+);
+
+-- Another option:
+CREATE TABLE songs2 (
+	song_id INT,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    PRIMARY KEY (cat_id)
+);
+
+-- Inserting info/data to playlist
+INSERT INTO songs(song_id, name, age) VALUES(99998, 'hall of fame', 3);
+INSERT INTO songs(song_id, name, age) VALUES(99999, 'Super hero', 5);
+
+
+-- to get everything from songs table
+SELECT * FROM songs;
+```
+
+<br>
+
+#### How to add-on "auto-increment" to primary key aka (unique id)
+
+```sql
+CREATE TABLE amazon_cart (
+    item_id INT AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    price INT NOT NULL,
+    PRIMARY KEY (item_id)
+);
+
+
+-- Inserting info/data to playlist
+INSERT INTO amazon_cart(name, price) VALUES('playstation 5', 5000);
+INSERT INTO amazon_cart(name, price) VALUES('playstation 5', 5000);
+INSERT INTO amazon_cart(name, price) VALUES('playstation 5', 5000);
+INSERT INTO amazon_cart(name, price) VALUES('playstation 5', 5000);
+INSERT INTO amazon_cart(name, price) VALUES('playstation 5', 5000);
+INSERT INTO amazon_cart(name, price) VALUES('playstation 5', 5000);
+INSERT INTO amazon_cart(name, price) VALUES('playstation 5', 5000);
+
+
+-- to get everything from songs table
+SELECT * FROM amazon_cart;
+```
+
+<br>
+<br>
+
+## CRUD Operations

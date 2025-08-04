@@ -45,6 +45,7 @@ Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging
 
 # 2. 🧪 Lab<a id='2'></a>
 
+0. Setting up the systems [click me](https://github.com/joy-KU/KU-UIT/blob/main/Game%20programming/assets/ppt/lab/0%20lab.README.md) 
 1. Implement 3D transformations (Translation, Rotation, Scaling) on a simple object using OpenGL or DirectX [click me]()
 2. Simulate basic ray tracing to render a 3D scene with lighting and shadows [click me]()
 3. Create a basic game engine loop including input handling, update logic, and rendering [click me]()

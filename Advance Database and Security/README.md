@@ -65,7 +65,7 @@ tools – MongoDB, Cerbos, MariaDB, Casbin.
 # 2. 🧪 Lab<a id='2'></a>
 
 1. Installation and configuration of Relational & NoSQL DBs [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/1%20lab.README.md)
-1. Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me]()
+1. Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/2%20lab.README.md)
 1. Designing and querying distributed databases (replication, sharding demo)4Cloud database setup and access via API (Firebase / AWS RDS) [click me]()
 1. Role-Based Access Control (RBAC) configuration in SQL [click me]()
 1. Implementing user authentication and permission management [click me]()

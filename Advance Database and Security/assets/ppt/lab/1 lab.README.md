@@ -51,3 +51,12 @@ SHOW DATABASES
 ### 5. DbGate Community edition
 
 - Download link: [click me](https://dbgate.org/download-community/)
+- Connection type: MySQL
+  - User: root, Password: admin
+  - Click on test, then click on connect
+- Go to file--> new query
+- paste code then execute (bottom button)
+
+```sql
+SHOW DATABASES
+```

@@ -61,6 +61,23 @@ SELECT database();
 
 - [My SQL reference](https://dev.mysql.com/doc/refman/8.4/en/data-types.html)
 
-#### How to create a new table
+#### How to create a new table inside database
 
--
+```sql
+CREATE DATABASE pet_shop;
+USE pet_shop;
+SELECT database();
+
+
+-- Main code --
+CREATE TABLE cats (
+    name VARCHAR(50),
+    age INT
+);
+
+CREATE TABLE dogs (
+    name VARCHAR(50),
+    breed VARCHAR(50),
+    age INT
+);
+```

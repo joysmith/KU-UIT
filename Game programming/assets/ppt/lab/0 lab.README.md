@@ -5,6 +5,8 @@
 1. Download and Install Unity hub [click me](https://docs.unity3d.com/hub/manual/InstallHub.html)
 1. Open Unity hub and login with gmail account
 1. Installing unity editor 6.1
+1. Create new project
+1. 
 
 <br>
 <br>
@@ -18,5 +20,7 @@
 ## Learning Basic concept of OOPs with Processing langauage
 1. Download processing language [click me](https://processing.org/)
 1. Getting started with processing [Book](https://drive.google.com/file/d/1X6BjSyGmyoMqCtJWyk-4Phs-WXTafxqR/view?usp=sharing)
+1. Download nature of code [github repo](https://github.com/nature-of-code/noc-examples-processing)
+1. extract nature of code repo, cut and paste folder in follwing path "C:\Program Files\Processing\app\resources\modes\java\examples\Demos"
 1. Online editor [IDE](https://openprocessing.org/sketch/create)
 1. Processing documentation [click me](https://processing.org/reference)

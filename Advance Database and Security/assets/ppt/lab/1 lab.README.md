@@ -29,11 +29,11 @@ mysql -u root -p
 
 ### 4. MySQL Workbench
 
-- Download link: (click me)[https://dev.mysql.com/downloads/workbench/]
+- Download link: [click me](https://dev.mysql.com/downloads/workbench/)
 
 <br>
 <br>
 
 ### 5. DbGate Community edition
 
-- Download link: (click me)[https://dbgate.org/download-community/]
+- Download link: [click me](https://dbgate.org/download-community/)

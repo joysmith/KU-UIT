@@ -46,9 +46,9 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 
 # 2. 🧪 Lab<a id='2'></a>
 
-0. Lab Setup []()
+0. Lab Setup [click me](https://github.com/joysmith/KU-UIT/blob/main/PPS/assets/lab/0.%20lab.README.md)<br>
 
-1. Write a C++ program to demonstrate [click me]()
+1. Write a C++ program to demonstrate [click me]()<br>
 
    a. Basic input/output, arithmetic operations. <br>
    b. Temperature converter (Celsius ↔ Fahrenheit).

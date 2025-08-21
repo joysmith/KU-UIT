@@ -10,6 +10,12 @@
 <br>
 <br>
 
+### Google class
+
+- Google class invite link [click me](https://classroom.google.com/c/Nzk0OTczNjE4NzM2?cjc=y6fuah3u)
+
+<br>
+
 ### Prerequisite
 
 Basic knowledge of database systems (SQL, ER modeling), data structures, computer networks, and

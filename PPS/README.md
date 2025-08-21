@@ -10,34 +10,36 @@
 
 # 1. Syllabus<a id='1'></a>
 
-### UNIT 1: OVERVIEW OF C++
+### UNIT 1: INTRODUCTION TO PROGRAMMING & C++ BASICS
 
-Basics of Procedure-oriented language, Difference between C and C++, algorithm and flow chart, datatypes and tokens,
-Object-Oriented Approaches, Basic Concepts: Objects, Classes, Abstraction, Encapsulation, Inheritance, Polymorphism,
-Dynamic Binding, Message Passing, Characteristics of Object-Oriented Languages, data types, tokens.
+Problem definition, Algorithm, and flow chart, Basic concepts of programming, Introduction to C++, OOP concepts; Class
+and Object, Encapsulation, Inheritance, polymorphism, abstraction, C++ syntax, structure of a program, comments, Variables,
+constants, data types, Operators and expressions (Arithmetic, Logical, Relational), Input/output using cin and cout.
 
-### UNIT 2: CLASSES AND OBJECTS
+### UNIT 2: CONTROL FLOW AND ITERATION
 
-Abstract data types, Objects & Classes, attributes, methods, C++ class declaration, Local Class, and Global Class, and
-behavior of an object, Local Object and Global Object, Scope resolution operator, Constructors and destructors, Instantiation
-of objects, Types of Constructors.
+Decision-Making Constructs: Introduction to conditional statements, if Statement: Syntax and flow, if-else Statement:
+Branching logic, Nested if Statements: Multi-level conditions, switch Case Statement: Multi-way decision making. Looping
+Constructs – Introduction and Use Cases, Concept and need for loops in programming, Entry-controlled and exit-controlled
+loops, for Loop, while Loop, do-while loop, Differences from while and for loops, Jumping Statements; break: Premature exit
+from loop/switch, continue: Skip current iteration, goto: Unconditional jump (use with caution and structure)
 
-### UNIT 3: INHERITANCE
+### UNIT 3: ARRAYS, STRINGS, AND FUNCTIONS
 
-Inheritance, Types of Inheritance, Access modes – public, private & protected, Abstract Classes, Ambiguity resolution using
-the scope resolution operator, Aggregation, composition vs classification hierarchies, Overriding inheritance methods,
-Constructors in derived classes, Nesting of Classes.
+Arrays: 1D and 2D, Discuss the matrix addition and multiplication, C++ string class vs C-style strings, String manipulation,
+Functions: declaration, definition, calling, Function overloading, default arguments, recursion, Passing arrays and strings to
+functions.
 
-### UNIT 4: POLYMORPHISM
+### UNIT 4: STRUCTURES, CLASSES, AND POINTERS
 
-Polymorphism, Type of Polymorphism – Compile time and runtime and their differences, Function Overloading: Syntax,
-Rules, and Use Cases, Operator Overloading (Unary and Binary), Polymorphism by parameter: Type Conversion and Default
-Arguments, Virtual Functions: Concept, Usage, and Pitfalls, Pure virtual functions.
+Structures in C++, Object-Oriented Programming (OOP): classes and objects, constructors and destructors, Access specifiers,
+member functions, Introduction to pointers, pointer arithmetic, new and delete, pointers with arrays, pointers to objects.
 
-### UNIT 5: STRINGS, FILES, AND EXCEPTION HANDLING
+### UNIT 5: INHERITANCE AND FILE HANDLING
 
-Arrays- 2D and 3D, Manipulating different string functions, Streams, and file handling, Formatted and Unformatted
-Input/Output, Exception handling, Generic Programming – function template, class template
+Understand the concept and purpose of inheritance, implement different types of inheritance in C++, and use access specifiers
+(public, protected, private) in inheritance, I/O streams: cin, cout, cerr, clog, File I/O: ifstream, ofstream, fstream, Creating,
+opening, reading, writing, and appending files, Searching and modifying file records, Error handling in file operations
 
 ---
 

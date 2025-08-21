@@ -8,6 +8,12 @@
 <br>
 <br>
 
+### Google class
+
+- Google class invite link [click me](https://classroom.google.com/c/NzkxMzU2Mjk5NjA2?cjc=4rtyifi4)
+
+<br>
+
 # 1. Syllabus: 71101002001<a id='1'></a>
 
 ### UNIT 1: INTRODUCTION TO PROGRAMMING & C++ BASICS

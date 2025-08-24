@@ -1,7 +1,7 @@
 1. [Topics](#1)
 2. [Lab](#2)
 3. [Books](#3)
-4. [Notes](#4)
+4. [Exercise](#4)
 5. [Sample question](#5)
 6. [Self study](#6)
 
@@ -135,10 +135,9 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 <br>
 <br>
 
-# 4. Notes<a id='4'></a>
+# 4. Exercise<a id='4'></a>
 
-- Download Notes [click me]()
-- Download PPT [click me]()
+- Exercise & Practice [click me]()
 
 ---
 
@@ -147,7 +146,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 # 5. Sample question<a id='5'></a>
 
-1. Download sample paper [click me]()
+1. Download sample paper [click me](<assets/exercise/1 basic.md>)
 
 ---
 

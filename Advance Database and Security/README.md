@@ -12,7 +12,7 @@
 
 ### Google class
 
-- Google class invite link [click me](https://classroom.google.com/c/Nzk0OTczNjE4NzM2?cjc=y6fuah3u)
+- Google class invite link [click me](https://classroom.google.com/c/Nzk0OTczNTIxMTgw?cjc=46d4ddy4)
 
 <br>
 

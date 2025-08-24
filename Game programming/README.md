@@ -10,6 +10,12 @@
 <br>
 <br>
 
+### Google class
+
+- Google class invite link [click me](https://classroom.google.com/c/Nzk0OTczNjE4NzM2?cjc=y6fuah3u)
+
+<br>
+
 ### Prerequisite
 
 Mathematics for Graphics, Basic Computer Graphics Concepts, Object-Oriented Programming (OOP)

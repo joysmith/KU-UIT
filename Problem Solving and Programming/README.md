@@ -137,7 +137,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 # 4. Exercise<a id='4'></a>
 
-- Exercise & Practice [click me]()
+- Exercise & Practice [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/exercise/1%20basic.md)
 
 ---
 
@@ -146,7 +146,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 # 5. Sample question<a id='5'></a>
 
-1. Download sample paper [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/exercise/1%20basic.md)
+1. Download sample paper [click me]()
 
 ---
 

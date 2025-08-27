@@ -139,6 +139,7 @@ tools – MongoDB, Cerbos, MariaDB, Casbin.
 1. [Database System Concepts](https://db-book.com)
 2. [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 3. [MongoDB](https://www.mongodb.com/docs/manual/)
+4. [Kali Linux Essential Training](https://www.linkedin.com/learning-login/share?account=240654028&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fkali-linux-essential-training%3Ftrk%3Dshare_ent_url%26shareId%3D6ouwj3W4SVaZ6CnUEfNOSw%253D%253D)
 
 # 7. Cool project on Internet
 

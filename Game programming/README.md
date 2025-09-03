@@ -118,7 +118,7 @@ Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging
 
 # 6. Assignments <a id='6'></a>
 
-1. Download sample paper [click me](Game%20programming/assets/assignment/1_game_development.md)
+1. Game Dev Assignment [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/assignment/1_game_development.md)
 
 ---
 

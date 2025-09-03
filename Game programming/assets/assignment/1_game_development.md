@@ -183,7 +183,7 @@ You must submit a written report in the following format (structure below).
 <br>
 <br>
 
-## Evaluation Criteria (Suggested Rubric):
+## Evaluation Criteria:
 
 | Criteria                         | Marks |
 | -------------------------------- | ----- |

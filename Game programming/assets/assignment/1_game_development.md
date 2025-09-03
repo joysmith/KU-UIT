@@ -4,11 +4,17 @@
 
 Design and develop a simple, playable game using a game engine of your choice. This project aims to provide hands-on experience in game design, development, documentation, and presentation.
 
+<br>
+<br>
+
 ## Team Guidelines:
 
 - Minimum Members: 1
 - Maximum Members: 4
 - Each team must choose a team leader responsible for coordination and submission.
+
+<br>
+<br>
 
 ## Allowed Tools & Engines:
 
@@ -22,6 +28,9 @@ You are free to use any game engine or framework such as:
 - Construct
 - GameMaker
 - Or any other engine you are comfortable with.
+
+<br>
+<br>
 
 ## Project Deliverables (Mandatory):
 

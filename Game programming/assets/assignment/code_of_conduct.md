@@ -31,3 +31,7 @@ Be open minded. Embrace new people and new ideas.
 If you believe someone is violating the code of conduct, I ask that you report it by emailing. Please include your name and a description of the incident, and I will get back to you ASAP.
 
 <br>
+
+### College Code of Conduct
+
+- [KU UIT Code Of Conduct](https://services.ku.edu/TDClient/818/Portal/KB/ArticleDet?ID=21011)

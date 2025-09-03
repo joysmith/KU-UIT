@@ -185,7 +185,7 @@ You must submit a written report in the following format (structure below).
 
 - Game files: Google Drive / GitHub
 - Presentation: PowerPoint (.pptx)
-- Assignment file: Scanned PDF of written record and hard copy
+- Assignment file: Scanned PDF of individual written record and hard copy
 
 <br>
 <br>

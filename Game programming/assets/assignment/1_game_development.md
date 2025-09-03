@@ -77,7 +77,7 @@ Should include:
 1. Must include basic start, play, and end/game over functionality.
 1. Submission formats: .exe, .apk, Web build, or GitHub link with instructions.
 
-### 4. Assignment File (Minimum 10 Pages)
+### 4. Assignment File (Minimum 10 Pages excluding Index, cover)
 
 You must submit a written report in the following format (structure below).
 

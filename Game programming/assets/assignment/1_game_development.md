@@ -2,7 +2,7 @@
 
 ## Objective:
 
-<img src="../images/promo.jpg" width="400">
+<img src="../images/promo.jpg" width="700">
 
 Design and develop a simple, playable game using a game engine of your choice. This project aims to provide hands-on experience in game design, development, documentation, and presentation.
 

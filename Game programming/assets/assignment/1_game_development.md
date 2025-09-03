@@ -1,6 +1,6 @@
 # 🎮 Game Development Project Assignment – B.Sc. 5th Semester
 
-## Code of Conduct [click me]()
+## Code of Conduct [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/assignment/code_of_conduct.md)
 
 ## Objective:
 

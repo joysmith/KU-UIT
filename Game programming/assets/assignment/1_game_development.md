@@ -81,7 +81,7 @@ You must submit a written report in the following format (structure below).
 - Submitted to: [Instructor Name]
 - Submission Date
 
-1. Introduction
+1. **Introduction**
 
 - Brief about the game concept
 - Purpose of the game
@@ -89,7 +89,7 @@ You must submit a written report in the following format (structure below).
 
 <br>
 
-2. Game Design Document Summary
+2. **Game Design Document Summary**
 
 - Include summarized version of your GDD with key sections like:
 - Game mechanics
@@ -99,7 +99,7 @@ You must submit a written report in the following format (structure below).
 
 <br>
 
-3. Technology Stack
+3. **Technology Stack**
 
 - Game engine used
 - Programming languages
@@ -108,7 +108,7 @@ You must submit a written report in the following format (structure below).
 
 <br>
 
-4. Development Process
+4. **Development Process**
 
 - Planning
 - Roles of team members
@@ -117,7 +117,7 @@ You must submit a written report in the following format (structure below).
 
 <br>
 
-5. Challenges Faced
+5. **Challenges Faced**
 
 - Technical issues
 - Team collaboration issues
@@ -126,13 +126,13 @@ You must submit a written report in the following format (structure below).
 
 <br>
 
-6. Screenshots of the Final Game
+6. **Screenshots of the Final Game**
 
 - Include at least 4–5 screenshots of the working game (main menu, gameplay, level, game over screen, etc.)
 
 <br>
 
-7. Testing & Feedback
+7. **Testing & Feedback**
 
 - Who tested your game (friends, classmates)?
 - What feedback did you receive?
@@ -140,21 +140,21 @@ You must submit a written report in the following format (structure below).
 
 <br>
 
-8. Conclusion
+8. **Conclusion**
 
 - What did your team learn?
 - What would you do differently next time?
 
 <br>
 
-9. References
+9. **References**
 
 - Any tutorials, assets, tools, or libraries used.
 - Credit sources for images, sounds, and other assets.
 
 <br>
 
-10. Appendix (Optional)
+10. **Appendix (Optional)**
 
 - Extra screenshots
 - Code snippets

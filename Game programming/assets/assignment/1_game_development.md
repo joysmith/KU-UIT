@@ -2,6 +2,8 @@
 
 ## Objective:
 
+<img src="../images/promo.jpg" width="400">
+
 Design and develop a simple, playable game using a game engine of your choice. This project aims to provide hands-on experience in game design, development, documentation, and presentation.
 
 <br>
@@ -169,11 +171,17 @@ You must submit a written report in the following format (structure below).
 - 6th–7th November 2025
 - Submission should be done before 15th November 2025, 5:00 PM.
 
+<br>
+<br>
+
 ## How to Submit:
 
 - Game files: Google Drive / GitHub
 - Presentation: PowerPoint (.pptx)
 - Assignment file: Scanned PDF of written record and hard copy
+
+<br>
+<br>
 
 ## Evaluation Criteria (Suggested Rubric):
 

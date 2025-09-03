@@ -194,10 +194,9 @@ You must submit a written report in the following format (structure below).
 
 | Criteria                         | Marks |
 | -------------------------------- | ----- |
-| Game Design & Creativity         | 20    |
-| Functionality & Playability      | 20    |
-| Documentation (GDD + Assignment) | 20    |
+| Game Design & Creativity         | 10    |
+| Functionality & Playability      | 30    |
+| Documentation (GDD + Assignment) | 30    |
 | Presentation                     | 20    |
 | Teamwork & Problem Solving       | 10    |
-| Timely Submission                | 10    |
 | Total                            | 100   |

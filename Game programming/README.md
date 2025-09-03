@@ -5,7 +5,9 @@
 3. [Books](#3)
 4. [Notes](#4)
 5. [Sample question](#5)
-6. [Self study](#6)
+6. [Assignment](#6)
+7. [Self study](#7)
+8. [Project on internet](#8)
 
 <br>
 <br>
@@ -114,13 +116,22 @@ Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging
 <br>
 <br>
 
-# 6. Self study online reference<a id='6'></a>
+# 6. Assignments <a id='6'></a>
+
+1. Download sample paper [click me](Gameprogramming/assets/assignment/1 game development.md)
+
+---
+
+<br>
+<br>
+
+# 7. Self study online reference<a id='7'></a>
 
 1. [Unity Documentation](https://docs.unity3d.com5.NPTEL)
 2. [Game Programming Courses](https://nptel.ac.in)
 3. [Game Developer](https://www.gamedeveloper.com)
 
-# 7. Cool project on Internet
+# 8. Cool project on Internet<a id='8'></a>
 
 1. [Matter.js](https://brm.io/matter-js/)
 1. [ROS2 Gazebo](https://app.theconstruct.ai/Desktop)

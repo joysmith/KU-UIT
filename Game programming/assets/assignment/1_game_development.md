@@ -1,5 +1,7 @@
 # 🎮 Game Development Project Assignment – B.Sc. 5th Semester
 
+## Code of Conduct [click me]()
+
 ## Objective:
 
 <img src="../images/promo.jpg" width="700">

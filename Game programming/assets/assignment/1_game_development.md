@@ -36,7 +36,7 @@ You are free to use any game engine or framework such as:
 
 #### Each team must submit the following:
 
-### 1. 🎮 Game Design Document (GDD)
+### 1. Game Design Document (GDD)
 
 A detailed design document including:
 
@@ -72,30 +72,22 @@ Should include:
 
 You must submit a written report in the following format (structure below).
 
-📁 Assignment File Format (10+ Pages Minimum)
-📄 Cover Page
-
-Project Title
-
-Course Name: BSc (CS/IT/Animation/etc.)
-
-Semester: 5th
-
-Name(s) of Students with Roll Numbers
-
-Team Leader Name
-
-Submitted to: [Instructor Name]
-
-Submission Date
-
-📑 Index Page (with page numbers)
+- Assignment File Format (10+ Pages Minimum)
+- Project Title
+- Course Name: BSc
+- Semester: 5th
+- Name(s) of Students with Roll Numbers
+- Team Leader Name
+- Submitted to: [Instructor Name]
+- Submission Date
 
 1. Introduction
 
 - Brief about the game concept
 - Purpose of the game
 - Type (2D/3D, casual, platformer, puzzle, etc.)
+
+<br>
 
 2. Game Design Document Summary
 
@@ -105,12 +97,16 @@ Submission Date
 - Level/environment design
 - Controls
 
+<br>
+
 3. Technology Stack
 
 - Game engine used
 - Programming languages
 - Tools for graphics/audio/UI
 - Platform targeted (Windows, Android, Web, etc.)
+
+<br>
 
 4. Development Process
 
@@ -119,6 +115,8 @@ Submission Date
 - Stages of development
 - Screenshots of development in progress
 
+<br>
+
 5. Challenges Faced
 
 - Technical issues
@@ -126,9 +124,13 @@ Submission Date
 - Creative blocks
 - How you overcame them
 
+<br>
+
 6. Screenshots of the Final Game
 
 - Include at least 4–5 screenshots of the working game (main menu, gameplay, level, game over screen, etc.)
+
+<br>
 
 7. Testing & Feedback
 
@@ -136,15 +138,21 @@ Submission Date
 - What feedback did you receive?
 - What improvements were made based on feedback?
 
+<br>
+
 8. Conclusion
 
 - What did your team learn?
 - What would you do differently next time?
 
+<br>
+
 9. References
 
 - Any tutorials, assets, tools, or libraries used.
 - Credit sources for images, sounds, and other assets.
+
+<br>
 
 10. Appendix (Optional)
 
@@ -152,27 +160,29 @@ Submission Date
 - Code snippets
 - Flowcharts or diagrams
 
-📅 Important Dates:
+<br>
+<br>
 
-Final Submission & Presentation:
-6th–7th November 2025
+## Important Dates:
 
-Submission should be done before 5th November 2025, 5:00 PM to avoid late penalties.
+- Final Submission & Presentation:
+- 6th–7th November 2025
+- Submission should be done before 15th November 2025, 5:00 PM.
 
-📤 How to Submit:
+## How to Submit:
 
-Game files: Google Drive / GitHub / Pen Drive
+- Game files: Google Drive / GitHub
+- Presentation: PowerPoint (.pptx)
+- Assignment file: Scanned PDF of written record and hard copy
 
-Presentation: PowerPoint (.pptx)
+## Evaluation Criteria (Suggested Rubric):
 
-Assignment file: PDF or Printed (as specified by your instructor)
-
-✅ Evaluation Criteria (Suggested Rubric):
-Criteria Marks
-Game Design & Creativity 20
-Functionality & Playability 20
-Documentation (GDD + Assignment) 20
-Presentation 20
-Teamwork & Problem Solving 10
-Timely Submission 10
-Total 100
+| Criteria                         | Marks |
+| -------------------------------- | ----- |
+| Game Design & Creativity         | 20    |
+| Functionality & Playability      | 20    |
+| Documentation (GDD + Assignment) | 20    |
+| Presentation                     | 20    |
+| Teamwork & Problem Solving       | 10    |
+| Timely Submission                | 10    |
+| Total                            | 100   |

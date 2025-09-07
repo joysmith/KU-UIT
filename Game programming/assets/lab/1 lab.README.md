@@ -10,6 +10,8 @@
 1. In Hierarchy window select "Player" GameObject, then in inspector **add Component** "Player_controller" script.
 1. Now open "Player_Controller.cs" with any IDE and write code
 
+<br>
+
 ### GameObject Translation
 
 [Translation](https://docs.unity3d.com/ScriptReference/Transform.Translate.html) (Position): To move an object, modify its position property or use the Translate method.
@@ -35,6 +37,8 @@ public class ObjectMover : MonoBehaviour
 }
 ```
 
+<br>
+
 ### GameObject Rotation
 
 Rotation: [Rotation](https://docs.unity3d.com/ScriptReference/Transform.Rotate.html) can be achieved by modifying the rotation or localRotation properties (using Quaternions), or by using the Rotate method (using Euler angles).
@@ -57,6 +61,8 @@ public class ObjectRotator : MonoBehaviour
     }
 }
 ```
+
+<br>
 
 ### GameObject Scaling
 

@@ -97,13 +97,6 @@
 <br>
 <br>
 
-## Walk through with unity documentation
-
-1.  Unity 6.1 [documentation](https://docs.unity3d.com/Manual/index.html)
-
-<br>
-<br>
-
 ## Learning Basic concept of OOPs with Processing langauage
 
 1. Download processing language [click me](https://processing.org/)

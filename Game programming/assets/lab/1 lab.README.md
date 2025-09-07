@@ -91,3 +91,5 @@ public class ObjectScaler : MonoBehaviour
     }
 }
 ```
+
+- [Time.deltaTime](https://docs.unity3d.com/ScriptReference/Time-deltaTime.html)

@@ -1,29 +1,26 @@
-Simulating basic ray tracing for lighting and shadows in Unity 3D primarily involves utilizing Unity's High Definition Render Pipeline (HDRP) and its integrated ray tracing features.
+# 2. Simulate basic ray tracing to render a 3D scene with lighting and shadows
 
-1. Project Setup:
-   Create or Convert to HDRP:
-   Start a new Unity project using the HDRP template, or convert an existing project to HDRP.
-   Install HDRP Package:
-   Ensure the High Definition RP package is installed in your project via the Package Manager.
+<img src="../images/directional light.png" width="700">
 
-2. Enable Ray Tracing:
-   HDRP Asset Configuration:
-   In your project, locate and select your HDRP Asset. In the Inspector window, navigate to the "Ray Tracing" section and ensure "Ray Tracing" is enabled.
-   Enable Ray-Traced Effects:
-   Within the HDRP Asset, enable specific ray-traced effects under their respective sections:
-   Lighting > Reflections: Enable "Screen Space Reflection" and "Transparent Screen Space Reflection."
-   Lighting > Shadows: Enable "Screen Space Shadows" and "Ray Traced Shadows" (for specific lights).
-   Lighting > Global Illumination: Enable "Screen Space Global Illumination."
+1. Open unity Hub create a new project--> universal 3d--> create
+1. In "Scene mode" switch to isometric view, Top view
+1. Egyptian Palace | Ancient Egypt Lite – Free 3D Assets [Download unity asset from asset store](https://assetstore.unity.com/packages/3d/environments/egyptian-palace-ancient-egypt-lite-free-3d-assets-311814#asset_quality)--> Download--> Import to project
+1. Open unity editor--> In project window: Asset/CGM_Egypt pack/Scene/ Demo_1.1
 
-3. Configure Lights and Shadows:
-   Light Sources: Add light sources (e.g., Directional Light, Point Light) to your scene.
-   Enable Ray-Traced Shadows on Lights: For individual lights, in their Inspector settings, ensure "Ray Traced Shadows" is enabled to utilize ray tracing for their shadows. Adjust shadow parameters like resolution and quality as needed.
+- Fix: Pink color problem
+- Go to Window--> rendering--> HDRP wizard--> Convert--> convert all builtin material into HDRP
 
-4. Scene Setup and Volumes:
-   Create a Global Volume: Add a "Global Volume" to your scene.
-   Create a Volume Profile: Create a new "Volume Profile" and assign it to your Global Volume.
-   Add Volume Overrides: Within the Volume Profile, add overrides for relevant lighting and shadow settings (e.g., Ambient Occlusion, Global Illumination, Shadows) and configure them to leverage ray tracing.
+### Directional light
 
-5. Camera Settings:
-   Custom Frame Settings: For your main camera, consider using "Custom Frame Settings" to fine-tune what the camera renders, including ray-traced effects like shadows and reflections.
-   By following these steps, you can set up a basic ray-traced scene in Unity's HDRP, enabling more realistic lighting and shadow simulation compared to traditional rasterization methods.
+1. In Hierarchy window select Directional light, then in Inspector panel change light properties
+
+### Spot Light
+
+<img src="../images/spot light.png" width="700">
+1. In Hierarchy window select Directional light, then in Inspector panel change light properties--> Type: Spot
+1. Split layout mode into two windows
+
+### Point Light
+
+1. In Hierarchy window select Directional light, then in Inspector panel change light properties--> Type: Spot
+1. Split layout mode into two windows

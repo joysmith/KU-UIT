@@ -10,9 +10,13 @@
 - Fix: Pink color problem
 - Go to Window--> rendering--> HDRP wizard--> Convert--> convert all builtin material into HDRP
 
+<br>
+
 ### Directional light
 
 1. In Hierarchy window select Directional light, then in Inspector panel change light properties
+
+<br>
 
 ### Spot Light
 
@@ -21,6 +25,8 @@
 1. In Hierarchy window select Directional light, then in Inspector panel change light properties--> Type: Spot
 1. Split layout mode into two windows
 1. Change light properties to study the effect
+
+<br>
 
 ### Point Light
 

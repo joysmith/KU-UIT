@@ -17,11 +17,14 @@
 ### Spot Light
 
 <img src="../images/spot light.png" width="700">
+
 1. In Hierarchy window select Directional light, then in Inspector panel change light properties--> Type: Spot
 1. Split layout mode into two windows
 1. Change light properties to study the effect
 
 ### Point Light
+
+<img src="../images/point light.png" width="700">
 
 1. In Hierarchy window select Directional light, then in Inspector panel change light properties--> Type: Point
 1. Split layout mode into two windows

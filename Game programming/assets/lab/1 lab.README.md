@@ -12,7 +12,7 @@
 
 ### GameObject Translation
 
-Translation (Position): To move an object, modify its position property or use the Translate method.
+[Translation](https://docs.unity3d.com/ScriptReference/Transform.Translate.html) (Position): To move an object, modify its position property or use the Translate method.
 
 ```c#
 using UnityEngine;
@@ -37,7 +37,7 @@ public class ObjectMover : MonoBehaviour
 
 ### GameObject Rotation
 
-Rotation: Rotation can be achieved by modifying the rotation or localRotation properties (using Quaternions), or by using the Rotate method (using Euler angles).
+Rotation: [Rotation](https://docs.unity3d.com/ScriptReference/Transform.Rotate.html) can be achieved by modifying the rotation or localRotation properties (using Quaternions), or by using the Rotate method (using Euler angles).
 
 ```c#
 using UnityEngine;
@@ -60,7 +60,7 @@ public class ObjectRotator : MonoBehaviour
 
 ### GameObject Scaling
 
-Scaling: To change the size of an object, modify its localScale property.
+[Scaling](https://docs.unity3d.com/ScriptReference/Transform-localScale.html): To change the size of an object, modify its localScale property.
 
 ```c#
 using UnityEngine;

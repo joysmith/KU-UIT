@@ -34,7 +34,13 @@
 #### Unity editor shortcut
 
 1. hold right mouse button + w, a, s, d, q, e to navigate around in **Scene mode**
-2. "Middle mouse button + drag" to pan around
+2. "Middle mouse button + drag" to pan around **Scene mode**
+
+<br>
+
+#### How to Maximize game mode window
+
+- Open unity editor--> Game Mode--> Player focused to **Player Maximized**
 
 <br>
 
@@ -65,6 +71,24 @@
 #### How to share unity project file
 
 -
+
+<br>
+
+#### How to import mesh or fbx or 3d model files
+
+- Download free asset from [here](https://devassets.com/). Unzip
+
+##### Option 1
+
+- Open unity editor--> Asset--> Import package--> custom package--> Select package(Sci-Fi Weapons (Base Pack).unitypackage)
+- Fix: Pink color problem
+- Go to Window--> rendering--> HDRP wizard--> Convert--> convert all builtin material into HDRP
+
+##### Option 2
+
+- Open unity editor--> Project: Asset(Folder)--> drag and drop 3d model file--> drag and drop 3d model file into hierarchy window
+
+<br>
 
 #### Unity Roadmap: A development into future
 

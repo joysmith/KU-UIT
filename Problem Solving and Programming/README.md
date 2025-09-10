@@ -57,8 +57,6 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 0. Lab Setup [click me](https://github.com/joysmith/KU-UIT/blob/main/PPS/assets/lab/0.%20lab.README.md)<br>
 
 1. Write a C++ program to demonstrate <br>
-
-1. Write a C++ program to demonstrate <br>
    a. Basic input/output, arithmetic operations [click me](). <br>
    b. Temperature converter (Celsius ↔ Fahrenheit) [click me]().
 

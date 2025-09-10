@@ -6,7 +6,7 @@
 
 1. Open unity Hub create a new project--> universal 3d--> create
 1. In "Scene" click on 2D mode.
-1. In "Game mode" click on aspect-->add new idem-->Type: aspect(x:3, y:5)
+1. In "Game mode" click on aspect-->add new item-->Type: aspect(x:3, y:5)
 1. In "Hierarchy panel" select "Main camera" then change properties of component
 
    - Camera Component:

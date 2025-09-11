@@ -63,8 +63,8 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 1. Write a C++ program to find
 
-   a. Even and odd numbers in a range [click me]()<br>
-   b. The largest/smallest of 3 numbers [click me]()
+   - [x] 1. Even and odd numbers in a range [click me]()<br>
+   - [ ] 2. The largest/smallest of 3 numbers [click me]()
 
 1. Write a C++ program to find the sum of the digits of a number [click me]()
 

@@ -70,8 +70,9 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 1. Write a C++ program to calculate the factorial using
 
-   a. For loop, while loop, and do-while loop [click me]()<br>
-   b. Recursion [click me]()
+   - [x] 1. For loop, while loop, and do-while loop [click me]()<br>
+     - only while complete
+   - [ ] 1. Recursion [click me]()
 
 1. Write a C++ program to
 

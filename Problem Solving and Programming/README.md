@@ -59,7 +59,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 1. Write a C++ program to demonstrate <br>
 
    - [x] 1. Basic input/output, arithmetic operations [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/lab/1.%20a%20lab.README.md). <br>
-   - [x] 2. Temperature converter (Celsius ↔ Fahrenheit) [click me]().
+   - [x] 2. Temperature converter (Celsius ↔ Fahrenheit) [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/lab/1.%20b%20lab.README.md).
 
 1. Write a C++ program to find
 

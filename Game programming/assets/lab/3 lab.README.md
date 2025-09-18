@@ -18,6 +18,9 @@
      - Background: **custom color**
 
 1. Go to GameObject--> 3D Object--> Cube, rename it to "player". Also In Inspector reset all transform, move it down.
+1. Create new folder call it material inside it, right click--> material rename to "player"
+   - Component shader: unlit--> color --> **custom color**
+1. Drag and drop player-material on player-gameObject
 1. In "Project panel" create new script name it "PlayerController" and add it to player-GameObject
 
 #### Enable both input systems simultaneously:

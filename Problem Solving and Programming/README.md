@@ -66,7 +66,9 @@ opening, reading, writing, and appending files, Searching and modifying file rec
    - [x] 1. Even and odd numbers in a range [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/lab/2.%20a.%20lab.md)<br>
    - [x] 2. The largest/smallest of 3 numbers [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/lab/2.%20b%20lab.md)
 
-1. Write a C++ program to find the sum of the digits of a number [click me]()
+1. Write a C++ program to find the sum of the digits of a number
+
+   - [x] [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/lab/3.%20lab.README.md)
 
 1. Write a C++ program to calculate the factorial using
 

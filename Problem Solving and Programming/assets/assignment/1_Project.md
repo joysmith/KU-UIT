@@ -193,16 +193,16 @@ Should include:
 
 9. **References**
 
-- Any tutorials, assets, tools, or libraries used.
-- Credit sources for images, sounds, and other assets.
+   - Any tutorials, assets, tools, or libraries used.
+   - Credit sources for images, sounds, and other assets.
 
 <br>
 
 10. **Appendix (Optional)**
 
-- Extra screenshots
-- Code snippets
-- Flowcharts or diagrams
+    - Extra screenshots
+    - Code snippets
+    - Flowcharts or diagrams
 
 <br>
 <br>

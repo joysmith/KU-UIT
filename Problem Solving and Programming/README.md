@@ -129,7 +129,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 # 4. Exercise<a id='4'></a>
 
-- Exercise & Practice [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/exercise/index.md)
+1. Exercise & Practice [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/exercise/index.md)
 
 <br>
 <br>
@@ -157,4 +157,4 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 # 8. Assignment<a id='8'></a>
 
-Project done by CSE-Cloud students [click me]()
+1. Project done by CSE-Cloud students [click me]()

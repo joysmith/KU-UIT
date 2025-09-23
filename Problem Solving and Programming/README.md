@@ -155,6 +155,6 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 <br>
 <br>
 
-# 8. Assignment<a id='8'></a>
+# 8. Project<a id='8'></a>
 
 1. Project done by CSE-Cloud students [click me]()

@@ -25,7 +25,7 @@ Design and develop a simple, Project based on C++. This project aims to provide 
 <br>
 <br>
 
-## Allowed Tools & Engines:
+## Allowed Tools:
 
 You are free to use any IDE, library, framework such as:
 

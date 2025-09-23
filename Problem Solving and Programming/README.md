@@ -48,8 +48,6 @@ Understand the concept and purpose of inheritance, implement different types of 
 (public, protected, private) in inheritance, I/O streams: cin, cout, cerr, clog, File I/O: ifstream, ofstream, fstream, Creating,
 opening, reading, writing, and appending files, Searching and modifying file records, Error handling in file operations
 
----
-
 <br>
 <br>
 
@@ -115,8 +113,6 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 1. Write a C++ program to use exception handling to manage divide-by-zero or file open errors [click me]()
 
----
-
 <br>
 <br>
 
@@ -133,16 +129,12 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 4. Stanley B. Lippman, C++ Primer, 5th Edition, Addison-Wesley
 5. An Introduction to Programming Through C++, By Prof. Abhiram G. Ranade, IIT Bombay
 
----
-
 <br>
 <br>
 
 # 4. Exercise<a id='4'></a>
 
 - Exercise & Practice [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/exercise/index.md)
-
----
 
 <br>
 <br>
@@ -151,16 +143,12 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 1. Download sample paper [click me]()
 
----
-
 <br>
 <br>
 
 # 6. Self study online reference<a id='6'></a>
 
 1. [An Introduction to Programming Through C++](https://onlinecourses.nptel.ac.in/noc21_cs38/preview)
-
----
 
 <br>
 <br>
@@ -169,13 +157,5 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 1. [Assignment](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/assignment/1_Project.md)
 
----
-
 <br>
 <br>
-
-# 8. Extra
-
-1. [Getting started with processing](https://drive.google.com/file/d/14iT7-7a5KSurPryaLw3-f3iw4epSmIbQ/view?usp=sharing)
-
----

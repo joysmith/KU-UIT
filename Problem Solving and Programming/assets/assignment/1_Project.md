@@ -110,14 +110,14 @@ Should include:
 
 You must submit a written report in the following format (structure below).
 
-- Assignment File Format (10+ Pages Minimum)
-- Project Title
-- Course Name: CSE-Cloud
-- Semester: 1th
-- Name(s) of Students with Roll Numbers
-- Team Leader Name
-- Submitted to: [Instructor Name]
-- Submission Date
+    - Assignment File Format (10+ Pages Minimum)
+    - Project Title
+    - Course Name: CSE-Cloud
+    - Semester: 1th
+    - Name(s) of Students with Roll Numbers
+    - Team Leader Name
+    - Submitted to: [Instructor Name]
+    - Submission Date
 
 1. **Introduction**
 
@@ -126,19 +126,14 @@ You must submit a written report in the following format (structure below).
 
 <br>
 
-2. **Game Design Document Summary**
+2. **Project Design Document Summary**
 
-- Include summarized version of your GDD with key sections like:
-- Game mechanics
-- Story or theme
-- Level/environment design
-- Controls
+- Include summarized version of your PDD
 
 <br>
 
 3. **Technology Stack**
 
-- Game engine used
 - Programming languages
 - Tools for graphics/audio/UI
 - Platform targeted (Windows, Android, Web, etc.)
@@ -222,9 +217,9 @@ You must submit a written report in the following format (structure below).
 
 | Criteria                         | Marks |
 | -------------------------------- | ----- |
-| Game Design & Creativity         | 10    |
+| Project Design & Creativity      | 10    |
 | Functionality & Playability      | 30    |
-| Documentation (GDD + Assignment) | 30    |
+| Documentation (PDD + Assignment) | 30    |
 | Presentation                     | 20    |
 | Teamwork & Problem Solving       | 10    |
 | Total                            | 100   |

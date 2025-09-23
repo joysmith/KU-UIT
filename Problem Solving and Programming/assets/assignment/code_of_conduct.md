@@ -1,6 +1,6 @@
 ## Code-of-Conduct
 
-This is a Code of Conduct for the BSC Game Dev community.
+This is a Code of Conduct for the SCE-Cloud Dev community.
 
 <br>
 

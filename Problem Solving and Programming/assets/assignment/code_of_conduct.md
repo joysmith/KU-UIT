@@ -1,6 +1,6 @@
 ## Code-of-Conduct
 
-This is a Code of Conduct for the SCE-Cloud Dev community.
+This is a Code of Conduct for the CSE-Cloud Dev community.
 
 <br>
 

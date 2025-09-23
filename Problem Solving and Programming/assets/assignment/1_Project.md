@@ -121,61 +121,61 @@ You must submit a written report in the following format (structure below).
 
 1. **Introduction**
 
-- Brief about the Project concept
-- Purpose of the Project
+   - Brief about the Project concept
+   - Purpose of the Project
 
 <br>
 
 2. **Project Design Document Summary**
 
-- Include summarized version of your PDD
+   - Include summarized version of your PDD
 
 <br>
 
 3. **Technology Stack**
 
-- Programming languages
-- Tools for graphics/audio/UI
-- Platform targeted (Windows, Android, Web, etc.)
+   - Programming languages
+   - Tools for graphics/audio/UI
+   - Platform targeted (Windows, Android, Web, etc.)
 
 <br>
 
 4. **Development Process**
 
-- Planning
-- Roles of team members
-- Stages of development
-- Screenshots of development in progress
+   - Planning
+   - Roles of team members
+   - Stages of development
+   - Screenshots of development in progress
 
 <br>
 
 5. **Challenges Faced**
 
-- Technical issues
-- Team collaboration issues
-- Creative blocks
-- How you overcame them
+   - Technical issues
+   - Team collaboration issues
+   - Creative blocks
+   - How you overcame them
 
 <br>
 
 6. **Screenshots of the Final project**
 
-- Include at least 4–5 screenshots of the working project.
+   - Include at least 4–5 screenshots of the working project.
 
 <br>
 
 7. **Testing & Feedback**
 
-- Who tested your project (friends, classmates)?
-- What feedback did you receive?
-- What improvements were made based on feedback?
+   - Who tested your project (friends, classmates)?
+   - What feedback did you receive?
+   - What improvements were made based on feedback?
 
 <br>
 
 8. **Conclusion**
 
-- What did your team learn?
-- What would you do differently next time?
+   - What did your team learn?
+   - What would you do differently next time?
 
 <br>
 

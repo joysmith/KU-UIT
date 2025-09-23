@@ -5,6 +5,7 @@
 5. [Sample question](#5)
 6. [Self study](#6)
 7. [Assignment](#7)
+8. [Project by Students](#8)
 
 <br>
 <br>
@@ -153,3 +154,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 <br>
 <br>
+
+# 8. Assignment<a id='8'></a>
+
+Project done by CSE-Cloud students [click me]()

@@ -94,6 +94,7 @@ You are free to use any IDE, library, framework such as:
 
 ### 2. Presentation (Minimum 7 Slides – PowerPoint)
 
+[Click to download ppt]()
 Should include:
 
 1. Title & Team Introduction

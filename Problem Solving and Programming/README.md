@@ -4,6 +4,7 @@
 4. [Exercise](#4)
 5. [Sample question](#5)
 6. [Self study](#6)
+7. [Assignment](#7)
 
 <br>
 <br>
@@ -164,9 +165,9 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 <br>
 <br>
 
-# 7. Cool project on Internet
+# 7. Assignment<a id='7'></a>
 
-1. []()
+1. [Assignment](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/assignment/1_Project.md)
 
 ---
 

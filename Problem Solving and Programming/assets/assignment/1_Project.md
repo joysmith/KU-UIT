@@ -127,6 +127,8 @@ Should include:
   - Submitted to: [Instructor Name]
   - Submission Date
 
+<br>
+
 1. **Introduction**
 
    - Brief about the Project concept

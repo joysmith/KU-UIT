@@ -218,7 +218,7 @@ Should include:
 
 ## How to Submit:
 
-- Game files: Google Drive / GitHub
+- Project files: Google Drive / GitHub
 - Presentation: PowerPoint (.pptx)
 - Assignment file: Scanned PDF of individual written record and hard copy
 

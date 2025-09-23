@@ -89,6 +89,9 @@ You are free to use any IDE, library, framework such as:
    - What additional features could be added in future?
    - Example: GUI support, database integration, multi-user support.
 
+<br>
+<br>
+
 ### 2. Presentation (Minimum 7 Slides – PowerPoint)
 
 Should include:
@@ -101,10 +104,16 @@ Should include:
 1. Challenges Faced & How Resolved
 1. Conclusion & Future Scope
 
+<br>
+<br>
+
 ### 3. Working Project
 
 1. Must be in a working, playable state.
 1. Submission formats: .exe, or GitHub link with instructions.
+
+<br>
+<br>
 
 ### 4. Assignment File (Minimum 10 Pages excluding Index, cover)
 

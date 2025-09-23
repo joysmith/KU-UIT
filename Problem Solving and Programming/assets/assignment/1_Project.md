@@ -104,7 +104,7 @@ Should include:
 ### 3. Working Project
 
 1. Must be in a working, playable state.
-1. Submission formats: .exe, .apk, Web build, or GitHub link with instructions.
+1. Submission formats: .exe, or GitHub link with instructions.
 
 ### 4. Assignment File (Minimum 10 Pages excluding Index, cover)
 

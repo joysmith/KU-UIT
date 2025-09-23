@@ -19,7 +19,7 @@ Design and develop a simple, Project based on C++. This project aims to provide 
 ## Team Guidelines:
 
 - Minimum Members: 1
-- Maximum Members: 2
+- Maximum Members: 3
 - Each team must choose a team leader responsible for coordination and submission.
 
 <br>

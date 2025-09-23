@@ -126,7 +126,7 @@ Should include:
   - Semester: 1th
   - Name(s) of Students with Roll Numbers
   - Team Leader Name
-  - Submitted to: [Instructor Name]
+  - Submitted to: [Asst. Prof. Instructor Name]
   - Submission Date
 
 <br>

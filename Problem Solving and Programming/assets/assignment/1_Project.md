@@ -95,6 +95,7 @@ You are free to use any IDE, library, framework such as:
 ### 2. Presentation (Minimum 7 Slides – PowerPoint)
 
 [Click to download ppt](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/Problem%20Solving%20and%20Programming/assets/ppt/Project.pptx)
+
 Should include:
 
 1. Title & Team Introduction

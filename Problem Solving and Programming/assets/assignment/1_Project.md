@@ -117,16 +117,15 @@ Should include:
 
 ### 4. Assignment File (Minimum 10 Pages excluding Index, cover)
 
-You must submit a written report in the following format (structure below).
-
-    - Assignment File Format (10+ Pages Minimum)
-    - Project Title
-    - Course Name: CSE-Cloud
-    - Semester: 1th
-    - Name(s) of Students with Roll Numbers
-    - Team Leader Name
-    - Submitted to: [Instructor Name]
-    - Submission Date
+- You must submit a written report in the following format (structure below).
+  - Assignment File Format (10+ Pages Minimum)
+  - Project Title
+  - Course Name: CSE-Cloud
+  - Semester: 1th
+  - Name(s) of Students with Roll Numbers
+  - Team Leader Name
+  - Submitted to: [Instructor Name]
+  - Submission Date
 
 1. **Introduction**
 

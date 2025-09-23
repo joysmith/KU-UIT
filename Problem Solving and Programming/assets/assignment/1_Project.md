@@ -43,51 +43,51 @@ You are free to use any IDE, library, framework such as:
 
 1. Project Overview & Concept
 
-- Brief description of the project idea.
-- What problem does it solve?
-- Why is it important or useful?
+   - Brief description of the project idea.
+   - What problem does it solve?
+   - Why is it important or useful?
 
 2. Project Type & Platform
 
-- Type of project (console-based, desktop app, database system, simulation, etc.).
-- Platform/Environment (Windows, Linux, cross-platform, etc.).
+   - Type of project (console-based, desktop app, database system, simulation, etc.).
+   - Platform/Environment (Windows, Linux, cross-platform, etc.).
 
 3. Target Audience
 
-- Who will use this project? (students, teachers, general users, businesses, etc.).
-- Skill level of intended users (beginner, intermediate, advanced).
+   - Who will use this project? (students, teachers, general users, businesses, etc.).
+   - Skill level of intended users (beginner, intermediate, advanced).
 
 4. Core Features & Functionality
 
-- List the main features.
-- Describe how the system works.
-- Inputs and expected outputs.
+   - List the main features.
+   - Describe how the system works.
+   - Inputs and expected outputs.
 
 5. System Design / Module Design
 
-- Describe modules/library (e.g., login, data entry, search, report generation).
-- Use flowcharts or algorithms for clarity.
+   - Describe modules/library (e.g., login, data entry, search, report generation).
+   - Use flowcharts or algorithms for clarity.
 
-7. (OPTIONAL) User Interface (UI/UX)
+6. (OPTIONAL) User Interface (UI/UX)
 
-- Console menu layout or GUI mockups/wireframes.
-- User flow (start → action → output → exit).
+   - Console menu layout or GUI mockups/wireframes.
+   - User flow (start → action → output → exit).
 
-8. Technology Stack
+7. Technology Stack
 
-- Programming language (C++).
-- Libraries/Frameworks (Standard Template Library, File Handling, OOP concepts).
-- Tools/IDE (Code::Blocks, Visual Studio, g++, etc.).
+   - Programming language (C++).
+   - Libraries/Frameworks (Standard Template Library, File Handling, OOP concepts).
+   - Tools/IDE (Code::Blocks, Visual Studio, g++, etc.).
 
-9. Testing Strategy
+8. Testing Strategy
 
-- How will the project be tested? (unit testing, manual testing, edge cases).
-- Example test cases (valid input, invalid input, boundary values).
+   - How will the project be tested? (unit testing, manual testing, edge cases).
+   - Example test cases (valid input, invalid input, boundary values).
 
-10. Future Enhancements
+9. Future Enhancements
 
-- What additional features could be added in future?
-- Example: GUI support, database integration, multi-user support.
+   - What additional features could be added in future?
+   - Example: GUI support, database integration, multi-user support.
 
 ### 2. Presentation (Minimum 7 Slides – PowerPoint)
 

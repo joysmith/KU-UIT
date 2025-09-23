@@ -12,7 +12,7 @@ This is a Code of Conduct for the CSE-Cloud Dev community.
 - Gender explicit or violent material
 - Unwelcome gender attention
 - Or any other kinds of harassment
-- Use your best judgement. If it will possibly make others uncomfortable, do not put in your game.
+- Use your best judgement. If it will possibly make others uncomfortable, do not put in your project.
 
 <br>
 

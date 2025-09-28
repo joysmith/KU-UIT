@@ -17,12 +17,7 @@
    Projection: Orthographic
    Environment--> Background type: Solid type
 
-1. Go to Asset store and add pixel art in your library then import in unity
-
-   - [Pixel Adventure 1: click me](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360),
-   - [2D Ultimate Side Scroller Character Controller: click me](https://assetstore.unity.com/packages/templates/systems/2d-ultimate-side-scroller-character-controller-253868)
-
-1. Go to Window--> package management--> my assets--> select
+1. Download [files]()
 1. Go to GameObject--> 2D Object--> Tilemap-->rectangle
 1. In scene view click on open tile pallet, create new pallet then click on save folder(default)
 1. In Project folder inside pixel adventure click on any image then in hierarchy change component property

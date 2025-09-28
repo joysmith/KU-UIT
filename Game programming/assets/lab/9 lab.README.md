@@ -1,4 +1,4 @@
-# 3. Develop a 2D tile-based game (e.g., maze or puzzle game) using DirectX or Python
+# 9. Develop a 2D tile-based game (e.g., maze or puzzle game) using DirectX or Python
 
 ### Demo unity platformer
 
@@ -11,7 +11,7 @@
 
 ### unity platformer
 
-1. Open unity Hub create a new project--> universal 3d--> create
+1. Open unity Hub create a new project--> universal 2d--> create
 1. In "Scene mode" switch 2D mode,
 1. In Hierarchy window select "Main camera" gameObject, Then in Inspector, in Camera Component
    Projection: Orthographic

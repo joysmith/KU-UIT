@@ -68,7 +68,7 @@ Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging
 6. Implement event-driven logic and user interface (scoreboard, health bar) using a UI manager [click me]()
 7. Create a simple 2D game using Python and Pygame or Java (e.g., platformer or shooter) [click me]()
 8. Develop a basic 3D game scene using Unity or DX Studio with phys ics-based interactions [click me]()
-9. Develop a 2D tile-based game (e.g., maze or puzzle game) using DirectX or Python [click me]()
+9. Develop a 2D tile-based game (e.g., maze or puzzle game) using DirectX or Python [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/9%20lab.README.md)
 10. Design a multiplayer game prototype using networking libraries in Unity or Python [click me]()
 
 ---

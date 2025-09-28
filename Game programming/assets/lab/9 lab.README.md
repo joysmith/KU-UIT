@@ -17,7 +17,7 @@
    Projection: Orthographic
    Environment--> Background type: Solid type
 
-1. Download [files]()
+1. Download [files](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/Game%20programming/assets/resource/craftpix-net-314143-free-industrial-zone-tileset-pixel-art.zip)
 1. Go to GameObject--> 2D Object--> Tilemap-->rectangle
 1. In scene view click on open tile pallet, create new pallet then click on save folder(default)
 1. In Project folder inside pixel adventure click on any image then in hierarchy change component property

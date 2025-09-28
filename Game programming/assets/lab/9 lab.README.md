@@ -4,8 +4,10 @@
 
 1. Open unity Hub create a new project--> universal 3d--> create
 
-   - Go to Asset store and add pixel art in your library then import in unity
+   - Go to Asset store and add "Lost Crypt - 2D Sample Project" in your library then import in unity
    - [Lost Crypt - 2D Sample Project: click me](https://assetstore.unity.com/packages/essentials/tutorial-projects/lost-crypt-2d-sample-project-158673?srsltid=AfmBOop184lT5ZX1eSg_Wb2Idp_jh1Z5ijCfvMVk_CSCTqPmIofE9B_T)
+
+1. Open unity Hub select sample project "2d platformer micro game"
 
 ### unity platformer
 

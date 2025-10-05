@@ -8,9 +8,9 @@
 
 1. Create new project, 
 1. Create new python file name it "game"
-1. Inside project create new directory "images", download assets, place in images directory
-1. Inside project create new directory "sounds", download assets, place in sounds directory
-1. Inside project create new directory "fonts", download assets, place in fonts directory
+1. Inside project create new directory "images", download [assets](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/Game%20programming/assets/resource/assets.zip), place in images directory
+1. Inside project create new directory "sounds", download [assets](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/Game%20programming/assets/resource/assets.zip), place in sounds directory
+1. Inside project create new directory "fonts", download [assets](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/Game%20programming/assets/resource/assets.zip), place in fonts directory
 1. Go to package manager search pygame and install
 1. Copy code in python file
 

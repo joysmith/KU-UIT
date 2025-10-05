@@ -6,8 +6,10 @@
 - [Pygame documentation](https://www.pygame.org/docs/)
 - [SDL cross platfrom library](https://libsdl.org/)
 
-1. Create new project, import assets
-2. 
+1. Create new project, 
+1. Create new python file name it "game"
+1. Inside project create new directory "images"
+1. Copy code in python file
 
 
 ```py

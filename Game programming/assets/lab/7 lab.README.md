@@ -1,1 +1,3 @@
-# 3. Create a basic game engine loop including input handling, update logic, and rendering
+# 7. Create a simple 2D game using Python and Pygame or Java (e.g., platformer or shooter) 
+
+

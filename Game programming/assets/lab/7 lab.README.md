@@ -8,7 +8,10 @@
 
 1. Create new project, 
 1. Create new python file name it "game"
-1. Inside project create new directory "images"
+1. Inside project create new directory "images", download assets, place in images directory
+1. Inside project create new directory "sounds", download assets, place in sounds directory
+1. Inside project create new directory "fonts", download assets, place in fonts directory
+1. Go to package manager search pygame and install
 1. Copy code in python file
 
 

@@ -109,7 +109,7 @@ class Asteroid:
 
 pygame.init()
 screen = pygame.display.set_mode((800, 800))
-pygame.display.set_caption("'Roids")
+pygame.display.set_caption("J-Galaxy BSC FGP")
 background = pygame.image.load('images/space.png')
 game_over = False
 ship = Ship((100, 700))
@@ -119,12 +119,12 @@ for i in range(3):
     asteroids.append(Asteroid((random.randint(0, screen.get_width()),
                                random.randint(0, screen.get_height())), 0))
 
-font = pygame.font.Font('fonts/Alien.ttf', 80)
+font = pygame.font.Font('fonts/NCLGaiaxDemo.ttf', 80)
 text_loser = font.render("You Lost!", True, (255, 255, 255))
 text_loser_position = ( (screen.get_width() - text_loser.get_width()) // 2,
                         (screen.get_height() - text_loser.get_height()) // 2)
 
-font2 = pygame.font.Font('fonts/Alien.ttf', 80)
+font2 = pygame.font.Font('fonts/NCLGaiaxDemo.ttf', 80)
 text_winner = font2.render("You Won!", True, (255, 255, 255))
 text_winner_position = ( (screen.get_width() - text_winner.get_width()) // 2,
                         (screen.get_height() - text_winner.get_height()) // 2)

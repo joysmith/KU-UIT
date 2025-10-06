@@ -29,3 +29,7 @@ OpenGL/OpenGL ES and Vulkan are the common cross-platform graphics APIs targeted
 [Matterjs](https://brm.io/matter-js/)
 
 [Phaser](https://phaser.io/)
+
+[gymnasium](https://gymnasium.farama.org/)
+
+[genetic ai car](https://rednuht.org/genetic_cars_2/), [geneticcars](https://geneticcars.willwade.dev/)

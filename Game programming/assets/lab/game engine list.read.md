@@ -21,3 +21,11 @@ LWJGL for low-level OpenGL/OpenAL/Vulkan access in custom engines.
 
 Graphics/Audio APIs
 OpenGL/OpenGL ES and Vulkan are the common cross-platform graphics APIs targeted directly or via engines; OpenAL is frequently used for audio under Java stacks like [LWJGL](https://www.lwjgl.org/).
+
+## other
+
+[Processing](https://processing.org/)
+
+[Matterjs](https://brm.io/matter-js/)
+
+[Phaser](https://phaser.io/)

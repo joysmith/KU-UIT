@@ -12,14 +12,10 @@
 ### unity platformer
 
 1. Open unity Hub create a new project--> universal 2d--> create
-1. In "Scene mode" switch 2D mode,
-1. In Hierarchy window select "Main camera" gameObject, Then in Inspector, in Camera Component
-   Projection: Orthographic
-   Environment--> Background type: Solid type
-
-1. Download [files](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/Game%20programming/assets/resource/craftpix-net-314143-free-industrial-zone-tileset-pixel-art.zip)
-1. Go to GameObject--> 2D Object--> Tilemap-->rectangle
-1. In scene view click on open tile pallet, create new pallet then click on save folder(default)
+1. Download [files](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/Game%20programming/assets/resource/craftpix-net-314143-free-industrial-zone-tileset-pixel-art.zip) drag and drop in project
+1. Go to GameObject--> 2D Object--> Tilemap-->rectangle rename to background
+1. Go to GameObject--> 2D Object--> Tilemap-->rectangle rename to ground
+1. In scene view click on open tile pallet, create new pallet then click on save folder(default or create asset folder)
 1. In Project folder inside pixel adventure click on any image then in hierarchy change component property
    - Sprite mode: multiple
    - Filter mode: point no filter

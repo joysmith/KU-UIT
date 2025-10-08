@@ -82,6 +82,9 @@ print(original_test.decode())  # Shows the original message in normal text so we
 ```
 
 
+<br>
+<br>
+
 
 ### RSA (Rivest-Shamir-Adleman)(RSA)- asymmetric
 

@@ -86,8 +86,9 @@ print(original_test.decode())  # Shows the original message in normal text so we
 ### RSA (Rivest-Shamir-Adleman)(RSA)- asymmetric
 
 1. Create new project, 
-1. Create new python file name it "RSA"
+1. Create new python file name it "rsa"
 1. Copy code in python file
+
 ```py
 
 import random
@@ -220,6 +221,12 @@ def decrypt(private_key, cipher_text):
 
     return plain_text
 
+```
+
+
+4. create another file "main.py"
+```py
+from rsa import *
 
 if __name__ == '__main__':
 
@@ -231,8 +238,5 @@ if __name__ == '__main__':
     print("Cipher text: %s" % cipher)
     plain = decrypt(private_key, cipher)
     print("Decrypted text: %s" % plain)
-
-
-
 
 ```

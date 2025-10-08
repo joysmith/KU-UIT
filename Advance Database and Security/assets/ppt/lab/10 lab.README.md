@@ -91,6 +91,8 @@ print(original_test.decode())  # Shows the original message in normal text so we
 
 ### RSA (Rivest-Shamir-Adleman)(RSA)- asymmetric
 
+<img src="../RSA-Encryption-Works.png" width="700">
+
 [Theory](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/rsa.pdf)
 
 1. Create new project,

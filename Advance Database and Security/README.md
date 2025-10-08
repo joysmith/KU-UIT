@@ -79,7 +79,7 @@ tools – MongoDB, Cerbos, MariaDB, Casbin.
 1. SQL Injection Attack Demonstration and Mitigation [click me]()
 1. Vulnerability scanning using open-source tools [click me]()
 1. Designing security policies and auditing database logs [click me]()
-1. Implementing symmetric and asymmetric encryption on stored data [click me]()
+1. Implementing symmetric and asymmetric encryption on stored data [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/10%20lab.README.md)
 1. Secure data transmission with hashed values and digital signatures [click me]()
 1. NoSQL data modeling and querying in MongoDB (Use Case Based) [click me]()
 1. Cloud-based application using Firebase Realtime DB / Firestore [click me]()

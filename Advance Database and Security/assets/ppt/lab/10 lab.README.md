@@ -1,21 +1,25 @@
-# Implementing symmetric and asymmetric encryption on stored data 
+# Implementing symmetric and asymmetric encryption on stored data
 
 - [Python interpreter](https://python.org)
 - [Pycharm IDE](https://www.jetbrains.com/pycharm/)
 - [pycryptodome documentation](https://www.pycryptodome.org/)
 
 ### Data Encryption Standard (DES)- symmetric
-1. Create new project, 
+
+1. Create new project,
 1. Create new python file name it "DES"
-1. Go to package manager search "pycryptodome" and install 
-or 
+1. Go to package manager search "pycryptodome" and install
+   or
+
 ```sh
 # use terminal to install
 pip install pycryptodome
 ```
+
 1. Copy code in python file
 
-#### 1 version without comment 
+#### 1 version without comment
+
 ```py
 from Crypto.Cipher import DES
 from Crypto.Util.Padding import pad
@@ -48,6 +52,7 @@ print(original_test.decode())
 ```
 
 #### 2 version with comment
+
 ```py
 from Crypto.Cipher import DES  # We bring in a special tool that can lock and unlock secret messages
 from Crypto.Util.Padding import pad  # This helps us make the message the right size for locking
@@ -81,14 +86,14 @@ print(original_test.decode())  # Shows the original message in normal text so we
 
 ```
 
-
 <br>
 <br>
-
 
 ### RSA (Rivest-Shamir-Adleman)(RSA)- asymmetric
 
-1. Create new project, 
+[Theory](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/rsa.pdf)
+
+1. Create new project,
 1. Create new python file name it "rsa"
 1. Copy code in python file
 
@@ -226,8 +231,8 @@ def decrypt(private_key, cipher_text):
 
 ```
 
-
 4. create another file "main.py"
+
 ```py
 from rsa import *
 

@@ -32,7 +32,11 @@ print(result.hexdigest())
 
 ```
 
-1. SHA256
+<br>
+<br>
+
+1. Create new project,
+1. Create new python file name it "SHA256"
 
 ```py
 from hashlib import sha256

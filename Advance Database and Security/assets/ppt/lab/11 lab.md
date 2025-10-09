@@ -1,11 +1,11 @@
 # Secure data transmission with hashed values
 
+- [Theory](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/Hashing.pdf)
 - [Python interpreter](https://python.org)
 - [Pycharm IDE](https://www.jetbrains.com/pycharm/)
 - [hashlib documentation](https://realpython.com/ref/stdlib/hashlib/)
 
-### MD5 
-
+### MD5
 
 1. Create new project,
 1. Create new python file name it "MD5"
@@ -15,6 +15,7 @@
 # use terminal to install
 pip install phashlib
 ```
+
 1. copy code to MD5
 
 ```py
@@ -59,6 +60,7 @@ print(result.hexdigest())  # This shows the secret code on the screen in a way t
 <br>
 
 #### SHA256 without comment
+
 1. Create new project,
 1. Create new python file name it "SHA256"
 

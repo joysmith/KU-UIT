@@ -9,8 +9,7 @@
 
 1. Create new project,
 1. Create new python file name it "MD5"
-1. Go to package manager search "hashlib" and install
-   or
+1. Go to package manager search "hashlib" and install or
 
 ```sh
 # use terminal to install

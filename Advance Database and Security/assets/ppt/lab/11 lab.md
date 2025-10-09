@@ -107,6 +107,8 @@ print(result2.hexdigest())     # We show the secret code from result2.
 
 ```
 
+<br>
+<br>
 
 ### SHA512
 

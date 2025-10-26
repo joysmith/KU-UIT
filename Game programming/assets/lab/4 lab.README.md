@@ -1,6 +1,6 @@
 # 4. Implement a resource manager for textures, audio, and 3D models using file I/O
 
-### Version 1
+### Version 1: Simple boiler plate
 
 - Choose your own color pallet [click me](https://color.adobe.com/create/color-wheel)
 
@@ -256,7 +256,7 @@ if __name__ == "__main__":
 <br>
 
 
-#### Version 2
+#### Version 2: super mario
 
 
 ```py
@@ -605,7 +605,7 @@ if __name__ == "__main__":
 <br>
 <br>
 
-#### Version 3
+#### Version 3: Mobile game subway surfer
 
 ```py
 import pygame

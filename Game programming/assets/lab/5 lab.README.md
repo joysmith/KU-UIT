@@ -1,6 +1,4 @@
-# 4. Implement a resource manager for textures, audio, and 3D models using file I/O
-
-### Version 1: Simple boiler plate
+# 5. Design a basic game application layer including game state management (menu, play, pause)
 
 - Choose your own color pallet [click me](https://color.adobe.com/create/color-wheel)
 

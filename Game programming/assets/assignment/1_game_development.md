@@ -79,7 +79,7 @@ Should include:
 
 ### 4. Assignment File (Minimum 10 Pages excluding Index, cover)
 
-You must submit a written report in the following format (structure below).
+You must submit a Docx file in the following format (structure below).
 
 - Assignment File Format (10+ Pages Minimum)
 - Project Title

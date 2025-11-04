@@ -175,7 +175,7 @@ You must submit a Docx file in the following format (structure below).
 ## Important Dates:
 
 - Final Submission & Presentation:
-- 6th–7th November 2025
+- 3-4 November 2025
 - Submission should be done before 7th November 2025, 5:00 PM.
 
 <br>

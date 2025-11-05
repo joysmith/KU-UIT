@@ -39,7 +39,7 @@ You are free to use any IDE, library, framework such as:
 
 #### Each team must submit the following:
 
-### Project Design Document
+### Project Design Document in .docx
 
 1. Project Overview & Concept
 
@@ -117,7 +117,7 @@ Should include:
 <br>
 <br>
 
-### 4. Assignment File (Minimum 10 Pages excluding Index, cover)
+### 4. Assignment File (Minimum 10 Pages excluding Index, cover) in .docx
 
 - You must submit a written report in the following format (structure below).
   - Assignment File Format (10+ Pages Minimum)
@@ -218,9 +218,10 @@ Should include:
 
 ## How to Submit:
 
-- Project files: Google Drive / GitHub
+- Project Working file: Google Drive / GitHub
 - Presentation: PowerPoint (.pptx)
-- Assignment file: Scanned PDF of individual written record and hard copy
+- Project Design Document in .docx (word)
+- Assignment file: .docx--> PDF of individual
 
 <br>
 <br>

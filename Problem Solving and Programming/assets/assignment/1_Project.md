@@ -39,7 +39,7 @@ You are free to use any IDE, library, framework such as:
 
 #### Each team must submit the following:
 
-### Project Design Document in .docx
+### Project Design Document in .docx in 2 page
 
 1. Project Overview & Concept
 

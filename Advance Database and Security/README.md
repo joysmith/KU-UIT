@@ -83,7 +83,7 @@ tools – MongoDB, Cerbos, MariaDB, Casbin.
 - [x] 11. Secure data transmission with hashed values and digital signatures [click me]()
 - [x] 12. NoSQL data modeling and querying in MongoDB (Use Case Based) [click me]()
 - [x] 13. Cloud-based application using Firebase Realtime DB / Firestore [click me]()
-- [ ] 14. Encryption Techniques for Securing Databases (AES & RSA) [click me]()
+- [x] 14. Encryption Techniques for Securing Databases (AES & RSA) [click me]()
   - Symmetric Encryption Techniques for Securing Stored Data in Databases (e.g., AES)
   - Asymmetric Encryption for Secure Database Communication and Key Management (e.g., RSA)
 - [ ] 15. Integrity and Authentication Techniques in Databases [click me]()

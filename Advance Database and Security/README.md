@@ -77,7 +77,7 @@ tools – MongoDB, Cerbos, MariaDB, Casbin.
 - [ ] 5. Role-Based Access Control (RBAC) configuration in SQL [click me]()
 - [ ] 6. Implementing user authentication and permission management [click me]()
 - [ ] 7. SQL Injection Attack Demonstration and Mitigation [click me]()
-- [ ] 8. Vulnerability scanning using open-source tools [click me]()
+- [x] 8. Vulnerability scanning using open-source tools [click me]()
 - [ ] 9. Designing security policies and auditing database logs [click me]()
 - [x] 10. Implementing symmetric and asymmetric encryption on stored data [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/10%20lab.README.md)
 - [x] 11. Secure data transmission with hashed values and digital signatures [click me]()

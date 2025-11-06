@@ -71,25 +71,24 @@ tools – MongoDB, Cerbos, MariaDB, Casbin.
 # 2. 🧪 Lab<a id='2'></a>
 
 - [x] 1. Installation and configuration of Relational & NoSQL DBs [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/1%20lab.README.md)
-
-1. Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/2%20lab.README.md)
-1. Designing and querying distributed databases (replication, sharding demo)
-1. Cloud database setup and access via API (Firebase / AWS RDS) [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/14%20project.md>)
-1. Role-Based Access Control (RBAC) configuration in SQL [click me]()
-1. Implementing user authentication and permission management [click me]()
-1. SQL Injection Attack Demonstration and Mitigation [click me]()
-1. Vulnerability scanning using open-source tools [click me]()
-1. Designing security policies and auditing database logs [click me]()
-1. Implementing symmetric and asymmetric encryption on stored data [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/10%20lab.README.md)
-1. Secure data transmission with hashed values and digital signatures [click me]()
-1. NoSQL data modeling and querying in MongoDB (Use Case Based) [click me]()
-1. Cloud-based application using Firebase Realtime DB / Firestore [click me]()
-1. Encryption Techniques for Securing Databases (AES & RSA) [click me]()
-   - Symmetric Encryption Techniques for Securing Stored Data in Databases (e.g., AES)
-   - Asymmetric Encryption for Secure Database Communication and Key Management (e.g., RSA)
-1. Integrity and Authentication Techniques in Databases [click me]()
-   - Hashing Methods for Data Integrity and Secure Password Storage in
-   - Databases Digital Signatures for Authenticating Database Transactions and Audit Log
+- [x] 1. Modeling and comparing data in Relational vs NoSQL (Document, Key-Value) [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/2%20lab.README.md)
+- [ ] 1. Designing and querying distributed databases (replication, sharding demo)
+- [ ] 1. Cloud database setup and access via API (Firebase / AWS RDS) [click me](<https://github.com/joysmith/Shri-Shankaracharya-Technical-Campus/blob/main/5%20sem%20DS(A%20%2B%20B)%20%20-IOT/lab/14%20project.md>)
+- [ ] 1. Role-Based Access Control (RBAC) configuration in SQL [click me]()
+- [ ] 1. Implementing user authentication and permission management [click me]()
+- [ ] 1. SQL Injection Attack Demonstration and Mitigation [click me]()
+- [ ] 1. Vulnerability scanning using open-source tools [click me]()
+- [ ] 1. Designing security policies and auditing database logs [click me]()
+- [x] 1. Implementing symmetric and asymmetric encryption on stored data [click me](https://github.com/joysmith/KU-UIT/blob/main/Advance%20Database%20and%20Security/assets/ppt/lab/10%20lab.README.md)
+- [ ] 1. Secure data transmission with hashed values and digital signatures [click me]()
+- [ ] 1. NoSQL data modeling and querying in MongoDB (Use Case Based) [click me]()
+- [ ] 1. Cloud-based application using Firebase Realtime DB / Firestore [click me]()
+- [ ] 1. Encryption Techniques for Securing Databases (AES & RSA) [click me]()
+     - Symmetric Encryption Techniques for Securing Stored Data in Databases (e.g., AES)
+     - Asymmetric Encryption for Secure Database Communication and Key Management (e.g., RSA)
+- [ ] 1. Integrity and Authentication Techniques in Databases [click me]()
+     - Hashing Methods for Data Integrity and Secure Password Storage in
+     - Databases Digital Signatures for Authenticating Database Transactions and Audit Log
 
 ---
 

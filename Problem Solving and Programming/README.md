@@ -81,7 +81,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 1. Write a C++ program to show the
 
-   a. Matrix addition of 3x3 matrix [click me]() <br>
+   a. Matrix addition of 3x3 matrix [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/lab/7.%20lab.README.md) <br>
    b. Matrix multiplication of a 3x3 matrix [click me]()
 
 1. Write a C++ program to implement function overloading [click me]()

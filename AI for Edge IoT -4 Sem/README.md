@@ -1,4 +1,4 @@
-## Fundamental of Game Programming: 71305001E01
+## AI for Edge IoT:
 
 1. [Topics](#1)
 2. [Lab](#2)
@@ -11,8 +11,6 @@
 
 <br>
 <br>
-
-
 
 ### Prerequisite
 

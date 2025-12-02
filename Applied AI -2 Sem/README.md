@@ -20,31 +20,25 @@ Mathematics for Graphics, Basic Computer Graphics Concepts, Object-Oriented Prog
 
 # 1. Syllabus<a id='1'></a>
 
-### UNIT 1: 3D GRAPHICS FOR GAME PROGRAMMING
+### UNIT 1:
 
-3D Transformations: Translation, Rotation, Scaling; Quaternions; 3D Modeling and Rendering; Ray Tracing; Shader
-Programming; Lighting and Texturing; Camera and Projections; Culling and Clipping; Character Animation; Scene Graphs;
-Basic Physics-based Simulation.
+Problem formulation as search/optimization; cost functions. - Uninformed search: BFS, DFS, Uniform-cost; admissibility and complexity. - Informed search: heuristics, A*, IDA*, heuristic design, dominance. - Local search metaheuristics: hill-climbing, simulated annealing, beam search, tabu search, genetic algorithms. -Search as optimization: completeness, optimality, performance bounds.
 
-### UNIT 2: GAME ENGINE DESIGN
+### UNIT 2:
 
-Architecture of a Game Engine; Resource and File Management; Game Loop and Real-time Simulation; Human Interface
-Devices; Rigid Body Dynamics and Collision Detection; Game Profiling and Debugging Tools.
+Constraint Satisfaction Problems (CSP): backtracking, forward checking, MAC, MRV, constraint propagation. Game playing: minimax, alpha-beta pruning, expectimax, evaluation functions, iterative deepening. Approximation / heuristic methods for NP-hard AI tasks.
 
-### UNIT 3: GAME PROGRAMMING CONCEPTS
+### UNIT 3:
 
-Application Layer and Game Logic; Game State Management; Event-Driven Programming; Input Handling; Memory
-Management; Game Data Loading and Caching; User Interface Design and Management.
+Propositional logic: syntax, semantics, SAT, solving techniques. -First-order logic: unification, resolution, inference. Rule-based reasoning: forward chaining, backward chaining. - Planning: STRIPS, partial order planning, heuristic planning (h-add, hmax), Graph Plan. -Ontologies, semantic networks, knowledge graphs (overview).
 
-### UNIT 4: GAMING PLATFORMS AND FRAMEWORKS
+### UNIT 4:
 
-2D and 3D Game Development Using Languages: Python, Java, APIs and Frameworks: Flash, DirectX, Game Engines:
-Unity, DX Studio Overview of IDEs and Libraries for Game Development.
+Bayesian networks: representation, factorization, CPTs. -Exact inference: variable elimination, complexity analysis. Approximate inference: sampling methods (ancestral, rejection, importance sampling), MCMC (Gibbs sampling), belief propagation. -Markov networks (undirected models), introduction to EM for latent variable models.
 
-### UNIT 5: GAME DEVELOPMENT TECHNIQUE
+### UNIT 5:
 
-Development of 2D and 3D Games Using Unity or Python; Puzzle and Tile-Based Game Design; Isometric Games;
-Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging.
+Supervised learning: linear regression, logistic regression, perceptron, SVMs, decision trees, ensemble methods. • Unsupervised learning: k-means, Gaussian mixture models, PCA, spectral methods (intro). • Neural networks and backpropagation; training tricks (regularization, dropout, batch norm); optimization: SGD, momentum, Adam. • Reinforcement Learning fundamentals: MDPs, dynamic programming (value/policy iteration), Q-learning, SARSA, policy gradient basics. • Model selection, cross-validation, overfitting vs underfitting, evaluation metrics, computational costs.
 
 ---
 

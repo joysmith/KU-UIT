@@ -20,31 +20,25 @@ Mathematics for Graphics, Basic Computer Graphics Concepts, Object-Oriented Prog
 
 # 1. Syllabus<a id='1'></a>
 
-### UNIT 1: 3D GRAPHICS FOR GAME PROGRAMMING
+### UNIT 1: Edge AI foundations & IoT systems
 
-3D Transformations: Translation, Rotation, Scaling; Quaternions; 3D Modeling and Rendering; Ray Tracing; Shader
-Programming; Lighting and Texturing; Camera and Projections; Culling and Clipping; Character Animation; Scene Graphs;
-Basic Physics-based Simulation.
+Edge, fog, cloud paradigms; latency, privacy and cost tradeoffs. IoT stack: sensors, microcontrollers, gateways and cloud integration. Data acquisition, streaming, lightweight preprocessing and feature extraction. Edge hardware overview: MCUs, SBCs (Raspberry Pi), NVIDIA Jetson, Coral TPUs.
 
-### UNIT 2: GAME ENGINE DESIGN
+### UNIT 2: Tiny and efficient ML models
 
-Architecture of a Game Engine; Resource and File Management; Game Loop and Real-time Simulation; Human Interface
-Devices; Rigid Body Dynamics and Collision Detection; Game Profiling and Debugging Tools.
+Efficient CNN families (MobileNet, EfficientNet-Lite), small RNNs, efficient transformer variants. Model compression: pruning, structured sparsity, low-rank factorization, knowledge distillation. Post-training and quantization-aware training (8/16bit), mixed precision techniques. Neural Architecture Search (NAS) ideas for edge constraints.
 
-### UNIT 3: GAME PROGRAMMING CONCEPTS
+### UNIT 3: On-device inference & Edge MLOps
 
-Application Layer and Game Logic; Game State Management; Event-Driven Programming; Input Handling; Memory
-Management; Game Data Loading and Caching; User Interface Design and Management.
+On-device runtimes: TensorFlow Lite, TFLite Micro, ONNX Runtime Mobile, PyTorch Mobile. Model packaging, containerization for gateways, Over-The-Air (OTA) updates, device management. Telemetry, monitoring and lightweight federated learning paradigms for privacy.
 
-### UNIT 4: GAMING PLATFORMS AND FRAMEWORKS
+### UNIT 4: Edge Computer Vision & time-series analytics
 
-2D and 3D Game Development Using Languages: Python, Java, APIs and Frameworks: Flash, DirectX, Game Engines:
-Unity, DX Studio Overview of IDEs and Libraries for Game Development.
+Low-latency CV: Tiny-YOLO, MobileNet-SSD, segmentation with light U-Nets, real-time pipelines. Time-series sensor analytics: anomaly detection, feature engineering for streaming sensors, sequence models. Case studies: predictive maintenance, wake-word detection, smart-city sensors.
 
-### UNIT 5: GAME DEVELOPMENT TECHNIQUE
+### UNIT 5: Security, power management & case studies
 
-Development of 2D and 3D Games Using Unity or Python; Puzzle and Tile-Based Game Design; Isometric Games;
-Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging.
+Edge security basics: secure boot, model integrity, device attestation, adversarial considerations on edge. Energy-aware scheduling, real-time constraints and system-level co-design for ML. End-to-end case studies and deployment tradeoffs (latency vs accuracy vs energy).
 
 ---
 
@@ -85,6 +79,20 @@ Multiplayer Game Concepts; Basic Networking in Games; Game Testing and Debugging
 4. [Unity Documentation](https://docs.unity3d.com5.NPTEL)
 5. [Game Programming Courses](https://nptel.ac.in)
 6. [Game Developer](https://www.gamedeveloper.com)
+
+Textbooks & References
+
+1. Edge Impulse — Edge AI documentation and tutorials. https://docs.edgeimpulse.
+   com/
+2. TensorFlow Lite — official docs. https://www.tensorflow.org/lite
+3. ONNX Runtime — mobile edge docs. https://onnxruntime.ai/
+4. Sze, Vivienne et al., “Efficient Processing of Deep Neural Networks: A Tutorial and
+   Survey”, Proceedings of the IEEE, 2017. (recommended reading)
+5. Representative academic/industry course pages: Edge AI/AIoT syllabi from uni
+   versities and industry workshops (consult Edge Impulse, NVIDIA and academic
+   short courses).
+6. IIT / Indian references (for adaptation): IIT Delhi course pages related to embedded
+   systems and ML — e.g. https://www.cse.iitd.ac.in/~mausam/courses/
 
 ---
 

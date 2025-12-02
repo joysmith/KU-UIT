@@ -1,4 +1,4 @@
-## Applied AI: 71305001E01
+## Applied AI:
 
 1. [Topics](#1)
 2. [Lab](#2)

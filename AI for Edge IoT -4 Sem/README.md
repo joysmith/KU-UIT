@@ -9,7 +9,7 @@
 
 # 1. 🧪 Lab<a id='1'></a>
 
-- [ ] 0. Exploring the Simulation tools [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/0%20lab.README.md)
+- [ ] 0. Exploring the Simulation tools [click me](https://github.com/joysmith/KU-UIT/blob/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/lab/0%20lab.README.md)
 - [ ] 1.  [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/1%20lab.README.md)
 - [ ] 2.  [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/2%20lab.README.md)
 - [ ] 3. [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/3%20lab.README.md)

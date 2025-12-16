@@ -10,7 +10,7 @@
 # 1. 🧪 Lab<a id='1'></a>
 
 - [x] 0. Exploring the Simulation tools [click me](https://github.com/joysmith/KU-UIT/blob/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/lab/0%20lab.README.md)
-- [ ] 1.  [click me](https://github.com/joysmith/KU-UIT/blob/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/lab/1%20lab.README.md)
+- [ ] 1. Getting started with Arduino UNO [click me](https://github.com/joysmith/KU-UIT/blob/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/lab/1%20lab.README.md)
 - [ ] 2.  [click me]()
 - [ ] 3.  [click me]()
 - [ ] 4.  [click me]()

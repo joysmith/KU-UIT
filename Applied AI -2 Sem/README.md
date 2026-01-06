@@ -2,12 +2,6 @@
 
 1. [Topics](#1)
 2. [Lab](#2)
-3. [Books](#3)
-4. [Notes](#4)
-5. [Sample question](#5)
-6. [Assignment](#6)
-7. [Self study](#7)
-8. [Project on internet](#8)
 
 <br>
 <br>
@@ -22,23 +16,32 @@ Mathematics for Graphics, Basic Computer Graphics Concepts, Object-Oriented Prog
 
 ### UNIT 1:
 
-Problem formulation as search/optimization; cost functions. - Uninformed search: BFS, DFS, Uniform-cost; admissibility and complexity. - Informed search: heuristics, A*, IDA*, heuristic design, dominance. - Local search metaheuristics: hill-climbing, simulated annealing, beam search, tabu search, genetic algorithms. -Search as optimization: completeness, optimality, performance bounds.
+Problem formulation as search/optimization; cost functions. - Uninformed search: BFS, DFS, Uniform-cost; admissibility and complexity. - Informed search: heuristics, A*, IDA*, Local search metaheuristics: hill-climbing, simulated annealing..
 
 ### UNIT 2:
 
-Constraint Satisfaction Problems (CSP): backtracking, forward checking, MAC, MRV, constraint propagation. Game playing: minimax, alpha-beta pruning, expectimax, evaluation functions, iterative deepening. Approximation / heuristic methods for NP-hard AI tasks.
+Constraint Satisfaction Problems (CSP): backtracking, forward checking, MAC, MRV, constraint propagation. Game playing: minimax, alpha-beta pruning, expectimax, evaluation functions, iterative deepening. Approximation / heuristic methods for NP-hard AI task
 
 ### UNIT 3:
 
-Propositional logic: syntax, semantics, SAT, solving techniques. -First-order logic: unification, resolution, inference. Rule-based reasoning: forward chaining, backward chaining. - Planning: STRIPS, partial order planning, heuristic planning (h-add, hmax), Graph Plan. -Ontologies, semantic networks, knowledge graphs (overview).
+Propositional logic: syntax, semantics, SAT, solving techniques.-First-order
+logic: unification, resolution, inference. Rule-based reasoning: forward
+chaining, backward chaining. - Planning: STRIPS, partial order planning,
+heuristic planning (h-add, hmax)
 
 ### UNIT 4:
 
-Bayesian networks: representation, factorization, CPTs. -Exact inference: variable elimination, complexity analysis. Approximate inference: sampling methods (ancestral, rejection, importance sampling), MCMC (Gibbs sampling), belief propagation. -Markov networks (undirected models), introduction to EM for latent variable models.
+Bayesian networks: representation, factorization, CPTs. -Exact inference: variable
+elimination, complexity analysis. Approximate inference: sampling methods
+(ancestral, rejection, importance sampling), MCMC (Gibbs sampling), belief
+propagation. -Markov networks (undirected models),
 
 ### UNIT 5:
 
-Supervised learning: linear regression, logistic regression, perceptron, SVMs, decision trees, ensemble methods. • Unsupervised learning: k-means, Gaussian mixture models, PCA, spectral methods (intro). • Neural networks and backpropagation; training tricks (regularization, dropout, batch norm); optimization: SGD, momentum, Adam. • Reinforcement Learning fundamentals: MDPs, dynamic programming (value/policy iteration), Q-learning, SARSA, policy gradient basics. • Model selection, cross-validation, overfitting vs underfitting, evaluation metrics, computational costs.
+Reinforcement Learning fundamentals: MDPs, dynamic programming
+(value/policy iteration), Q-learning, SARSA, policy gradient basics. Model
+selection, cross-validation, overfitting vs underfitting, evaluation metrics,
+computational costs.
 
 ---
 
@@ -47,81 +50,16 @@ Supervised learning: linear regression, logistic regression, perceptron, SVMs, d
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [x] 0. Setting up the systems [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/0%20lab.README.md)
-- [x] 1. Implement 3D transformations (Translation, Rotation, Scaling) on a simple object using OpenGL or DirectX or Unity3D [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/1%20lab.README.md)
-- [x] 2. Simulate basic ray tracing to render a 3D scene with lighting and shadows [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/2%20lab.README.md)
-- [x] 3. Create a basic game engine loop including input handling, update logic, and rendering [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/3%20lab.README.md)
-- [ ] 4. Implement a resource manager for textures, audio, and 3D models using file I/O [click me]()
-- [x] 5. Design a basic game application layer including game state management (menu, play, pause) [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/5%20lab.README.md)
-- [x] 6. Implement event-driven logic and user interface (scoreboard, health bar) using a UI manager [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/6%20lab.README.md)
-- [x] 7. Create a simple 2D game using Python and Pygame or Java (e.g., platformer or shooter) [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/7%20lab.README.md)
-- [x] 8. Develop a basic 3D game scene using Unity or DX Studio with phys ics-based interactions [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/8%20lab.README.md)
-- [x] 9. Develop a 2D tile-based game (e.g., maze or puzzle game) using DirectX or Python [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/9%20lab.README.md)
-- [x] 10. Design a multiplayer game prototype using networking libraries in Unity or Python [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/lab/10%20lab.README.md)
-
----
-
-<br>
-<br>
-
-# 3. 📚 Books<a id='3'></a>
-
-### TEXT BOOK:
-
-1. Ernest Adams, Fundamentals of Game Design, 3rd Edition, New Riders, 2013.
-2. Steve Rabin, Introduction to Game Development, 2nd Edition, Cengage Learning, 2010.
-3. Fletcher Dunn & Ian Parberry, 3D Math Primer for Graphics and Game Development, 2nd Edition, CRC Press, 2011.
-
-<br>
-
-### REFERENCES:
-
-4. [Unity Documentation](https://docs.unity3d.com5.NPTEL)
-5. [Game Programming Courses](https://nptel.ac.in)
-6. [Game Developer](https://www.gamedeveloper.com)
-
----
-
-<br>
-<br>
-
-# 4. Notes<a id='4'></a>
-
-- Download Notes [click me]()
-- Download PPT [click me]()
-
----
-
-<br>
-<br>
-
-# 5. Sample question<a id='5'></a>
-
-1. Download sample paper [click me]()
-
----
-
-<br>
-<br>
-
-# 6. Assignments <a id='6'></a>
-
-1. Game Dev Assignment [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/assignment/1_game_development.md)
-
----
-
-<br>
-<br>
-
-# 7. Self study online reference<a id='7'></a>
-
-1. [Unity Documentation](https://docs.unity3d.com5.NPTEL)
-2. [Game Programming Courses](https://nptel.ac.in)
-3. [Game Developer](https://www.gamedeveloper.com)
-
-# 8. Cool project on Internet<a id='8'></a>
-
-1. [Matter.js](https://brm.io/matter-js/)
-1. [ROS2 Gazebo](https://app.theconstruct.ai/Desktop)
+- [ ] 0. Python refresher [click me]()
+- [ ] 1. Implement BFS and DFS for a sample problem (maze or graph traversal) [click me]()
+- [ ] 2. Implement A* and IDA*; compare path costs and nodes expanded. [click me]()
+- [ ] 3. Implement hill climbing and tabu search for optimization problem (n-queens/TSP small instance) [click me]()
+- [ ] 4. Implement backtracking with forward checking for Sudoku or n-queens [click me]()
+- [ ] 5. Implement minimax and alpha-beta pruning for Tic-Tac-Toe [click me]()
+- [ ] 6. Implement a SAT solver for simple CNF expressions [click me]()
+- [ ] 7. Implement forward/backward chaining on a small rule-based knowledge base. [click me]()
+- [ ] 8. Implement a simple STRIPS planner for a toy planning problem (blocks world). [click me]()
+- [ ] 9. Implement a reinforcement learning using a Q-Learning Algorithm [click me]()
+- [ ] 10. Implement a supervised/Unsupervised Model from Kaggle , justify the Model selection, cross-validation, overfitting vs underfitting, evaluation metrics, computational costs. [click me]()
 
 ---

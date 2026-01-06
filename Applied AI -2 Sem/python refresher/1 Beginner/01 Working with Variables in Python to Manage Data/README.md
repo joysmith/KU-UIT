@@ -15,9 +15,4 @@
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-1-1-exercise
-- https://repl.it/@lenargasimov/day-1-2-exercise
-- https://repl.it/@lenargasimov/day-1-3-exercise
-- https://repl.it/@lenargasimov/day-1-4-exercise
-
 https://repl.it/@lenargasimov/band-name-generator-end

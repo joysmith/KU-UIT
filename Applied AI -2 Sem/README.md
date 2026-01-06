@@ -50,7 +50,7 @@ computational costs.
 
 # 2. 🧪 Lab<a id='2'></a>
 
-- [ ] 0. Python refresher [click me]()
+- [ ] 0. Python refresher [click me](https://github.com/joysmith/KU-UIT/tree/main/Applied%20AI%20-2%20Sem/python%20refresher)
 - [ ] 1. Implement BFS and DFS for a sample problem (maze or graph traversal) [click me]()
 - [ ] 2. Implement A* and IDA*; compare path costs and nodes expanded. [click me]()
 - [ ] 3. Implement hill climbing and tabu search for optimization problem (n-queens/TSP small instance) [click me]()

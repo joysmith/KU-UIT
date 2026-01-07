@@ -9,6 +9,7 @@
 ### Where to download arduino IDE
 
 - Download Arduino IDE [Click me](https://www.arduino.cc/en/software)
+- Optional [Driver](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/resource/pololu-cp2102-windows-220616.zip)
 
 <br>
 

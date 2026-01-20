@@ -55,10 +55,7 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 #### Part B
 
 - [ ] 1. Python Basics, Python Data Structures, Python Programming Fundamentals [click me]
-
-(Working with Data in Python, Working with Numpy Arrays and Simple APIs)
-
-- [ ] 2. Python Basics, Python Data Structures, Python Programming Fundamentals [click me]()
+- [ ] 2. Working with Data in Python, Working with Numpy Arrays and Simple APIs [click me]()
 - [ ] 3. Implement BFS and DFS compare path costs and nodes expanded [click me]()
 - [ ] 4. Implement hill climbing for optimization problem (n-queens/TSP small instance). [click me]()
 - [ ] 5. Implement backtracking with forward checking for Sudoku or n-queens[click me]()

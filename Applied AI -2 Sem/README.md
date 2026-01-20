@@ -47,7 +47,7 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 #### Part A
 
 - [ ] Python documentation: [w3schools -Easy](https://www.w3schools.com/python/), [geeksforgeeks -Mid](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/), [python official -Pro](https://docs.python.org/3/index.html)
-- [ ] 0. Python refresher [click me](https://github.com/joysmith/KU-UIT/tree/main/Applied%20AI%20-2%20Sem/python%20refresher)
+- [ ] Python refresher [click me](https://github.com/joysmith/KU-UIT/tree/main/Applied%20AI%20-2%20Sem/python%20refresher)
 - [ ] Python Ide [thonny](https://thonny.org/), [pycharm](https://www.jetbrains.com/pycharm/)
 
 ---

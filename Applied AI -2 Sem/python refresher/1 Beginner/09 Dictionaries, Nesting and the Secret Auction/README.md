@@ -15,10 +15,7 @@
 
 ## Exercise
 
-- https://repl.it/@lenargasimov/day-9-1-exercise#main.py
-- https://repl.it/@lenargasimov/day-9-2-exercise#main.py
-
-## Secret Auction
+## Auction
 
 1. create file "art.py"
 

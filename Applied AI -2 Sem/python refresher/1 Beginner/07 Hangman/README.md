@@ -15,12 +15,6 @@
 
 ## Hangman
 
-- https://repl.it/@lenargasimov/Day-7-Hangman-1-Start-1#main.py
-- https://repl.it/@lenargasimov/Day-7-Hangman-2-Start-1#main.py
-- https://repl.it/@lenargasimov/Day-7-Hangman-3-Start#main.py
-- https://repl.it/@lenargasimov/Day-7-Hangman-4-Start#main.py
-- https://repl.it/@lenargasimov/Day-7-Hangman-5-Start#main.py
-
 ![hangman](hangman.gif)
 
 1. create "hangman_art.py"
@@ -322,7 +316,6 @@ word_list = [
 ```py
 #Step 5
 
-from replit import clear
 import random
 from hangman_words import word_list
 from hangman_art import stages, logo
@@ -348,8 +341,6 @@ for _ in range(word_length):
 
 while not end_of_game:
     guess = input("Guess a letter: ").lower()
-
-    clear()
 
     #TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know.
     if guess in display:

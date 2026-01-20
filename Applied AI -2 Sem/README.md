@@ -44,8 +44,16 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 
 # 2. 🧪 Lab<a id='2'></a>
 
+#### Part A
+
 - [ ] Python documentation: [w3schools -Easy](https://www.w3schools.com/python/), [geeksforgeeks -Mid](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/), [python official -Pro](https://docs.python.org/3/index.html)
 - [ ] 0. Python refresher [click me](https://github.com/joysmith/KU-UIT/tree/main/Applied%20AI%20-2%20Sem/python%20refresher)
+- [] Python Ide [thonny](https://thonny.org/), [pycharm](https://www.jetbrains.com/pycharm/)
+
+---
+
+#### Part B
+
 - [ ] 1. Python Basics, Python Data Structures, Python Programming Fundamentals [click me](Working with Data in Python, Working with Numpy Arrays and Simple APIs)
 - [ ] 2. Python Basics, Python Data Structures, Python Programming Fundamentals [click me]()
 - [ ] 3. Implement BFS and DFS compare path costs and nodes expanded [click me]()

@@ -51,6 +51,7 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 - [ ] [w3schools -Easy](https://www.w3schools.com/python/)
 - [ ] [geeksforgeeks -Mid](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
 - [ ] [python official -Pro](https://docs.python.org/3/index.html)
+- [ ] [python turtle documentation](https://docs.python.org/3/library/turtle.html)
 
 #### Python IDE
 

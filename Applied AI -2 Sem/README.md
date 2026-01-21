@@ -44,15 +44,27 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 
 # 2. 🧪 Lab<a id='2'></a>
 
-#### Part A
+### Part A
 
-- [ ] Python documentation: [w3schools -Easy](https://www.w3schools.com/python/), [geeksforgeeks -Mid](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/), [python official -Pro](https://docs.python.org/3/index.html)
+#### Python Documentation
+
+- [ ] [w3schools -Easy](https://www.w3schools.com/python/)
+- [ ] [geeksforgeeks -Mid](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
+- [ ] [python official -Pro](https://docs.python.org/3/index.html)
+
+#### Python IDE
+
+- [ ] [Download python 3...](https://www.python.org/downloads/)
+- [ ] [thonny](https://thonny.org/)
+- [ ] [pycharm](https://www.jetbrains.com/pycharm/)
+
+#### Python Projects
+
 - [ ] Python refresher [click me](https://github.com/joysmith/KU-UIT/tree/main/Applied%20AI%20-2%20Sem/python%20refresher)
-- [ ] Python Ide [thonny](https://thonny.org/), [pycharm](https://www.jetbrains.com/pycharm/)
 
 ---
 
-#### Part B
+### Part B
 
 - [ ] 1. Python Basics, Python Data Structures, Python Programming Fundamentals [click me]
 - [ ] 2. Working with Data in Python, Working with Numpy Arrays and Simple APIs [click me]()

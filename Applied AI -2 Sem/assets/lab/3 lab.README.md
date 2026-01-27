@@ -1,5 +1,13 @@
 # 3. Implementing DFS in 2d array
 
+### Uses of DFS:
+
+1. Solving puzzles: Sudoku, mazes, word games.
+1. Searching files & folders: Opening folders inside folders.
+1. Website links: Visiting one full website path before another.
+1. Artificial Intelligence: Trying many choices in games like chess.
+1. Maps: Checking all possible paths.
+
 ```py
 # This is our number grid (matrix)
 test_matrix = [
@@ -61,6 +69,14 @@ print(traversal_dfs(test_matrix))
 
 # Implementing BFS in 2d array
 
+### Uses of BFS:
+
+1. Finding the shortest path: In maps and GPS to find the closest route.
+1. Games: To find the quickest way to reach a goal.
+1. Social networks: Finding friends, then friends of friends.
+1. Robots: Moving step-by-step safely.
+1. Grids and boards: Visiting nearby boxes first.
+
 ```py
 from collections import deque
 
@@ -121,3 +137,11 @@ def traversal_bfs(matrix):
 print(traversal_bfs(test_matrix))
 
 ```
+
+### BFS Vs DFS
+
+| BFS                  | DFS                  |
+| -------------------- | -------------------- |
+| Like water spreading | Like climbing a tree |
+| Nearest first        | Deep first           |
+| Shortest path        | Explore everything   |

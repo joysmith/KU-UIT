@@ -69,7 +69,7 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 
 - [ ] 1. Python Basics, Python Data Structures, Python Programming Fundamentals [click me]
 - [ ] 2. Working with Data in Python, Working with Numpy Arrays and Simple APIs [click me]()
-- [ ] 3. Implement BFS and DFS compare path costs and nodes expanded [click me]()
+- [ ] 3. Implement BFS and DFS compare path costs and nodes expanded [click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/3%20lab.README.md)
 - [ ] 4. Implement hill climbing for optimization problem (n-queens/TSP small instance). [click me]()
 - [ ] 5. Implement backtracking with forward checking for Sudoku or n-queens[click me]()
 - [ ] 6. Implement minimax and alpha-beta pruning for Tic-Tac-Toe [click me]()

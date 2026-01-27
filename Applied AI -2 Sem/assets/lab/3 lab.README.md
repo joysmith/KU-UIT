@@ -1,4 +1,4 @@
-# 3. Implementing DFS
+# 3. Implementing DFS in 2d array
 
 ```py
 # This is our number grid (matrix)

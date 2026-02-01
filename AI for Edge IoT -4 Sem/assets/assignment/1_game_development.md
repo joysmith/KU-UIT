@@ -5,7 +5,7 @@
 
 ## Objective:
 
-<img src="../lab/assets/images/IoT.gif" width="300">
+<img src="../lab/assets/images/IoT.gif" width="500">
 
 Design and develop a working IoT-based smart system using sensors, micro-controllers, and cloud or mobile interfaces.
 

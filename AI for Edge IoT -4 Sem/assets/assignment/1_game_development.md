@@ -62,25 +62,15 @@ Should include:
 
 ### 3. Assignment File (Minimum 10 Pages excluding Index, cover)
 
-You must submit a Docx-->pdf file in the following format (structure below).
+**You must submit a Docx-->pdf file in the following format (structure below).**
 
-Assignment File (Minimum 10 Pages)
-Required Format
-Cover Page
-
-Project Title
-
-Course: BSc
-
-Semester: 5th
-
-Student Names & Roll Numbers
-
-Team Leader
-
-Instructor Name
-
-Submission Date
+- Project Title:
+- Course: AIML- Section
+- Semester: 4th
+- Student Names & Roll Numbers
+- Team Leader
+- Instructor Name
+- Submission Date
 
 1. Introduction
 

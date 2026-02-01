@@ -136,9 +136,7 @@ Include:
 7. Testing & Feedback
 
 - Who tested?
-
 - Observations
-
 - Improvements made
 
 <br>
@@ -146,9 +144,7 @@ Include:
 8. Conclusion
 
 - What was learned
-
 - Skills gained
-
 - Future enhancements
 
 <br>

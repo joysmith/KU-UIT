@@ -123,8 +123,6 @@ Should include:
 
 6. Final System Screenshots
 
-Include:
-
 - Hardware setup
 - Circuit
 - Dashboard/app
@@ -160,7 +158,7 @@ Include:
 
 ## How to Submit:
 
-- Presentation: PowerPoint (.pptx), **Name_KUid**
+- Presentation: PowerPoint (.pptx)-->pdf, **Name_KUid**
 - Assignment file: PDF of individual written record, **Name_KUid**
 
 <br>

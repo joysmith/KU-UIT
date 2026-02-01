@@ -32,7 +32,7 @@ Students must build a functional prototype, not just simulation.
 <br>
 <br>
 
-## Allowed Tools & Engines:
+## Allowed Tools & micro-controller:
 
 You are free to use any micro-controller such as:
 
@@ -153,7 +153,7 @@ Include:
 ## Important Dates:
 
 - Final Submission & Presentation:
-- 3-4 November 2025
+- 16 December 2026
 - Submission should be done before 7th November 2025, 5:00 PM.
 
 <br>

@@ -160,20 +160,8 @@ Include:
 
 ## How to Submit:
 
-- Game files: Google Drive / GitHub
 - Presentation: PowerPoint (.pptx)
-- Assignment file: Scanned PDF of individual written record and hard copy
+- Assignment file: Scanned PDF of individual written record
 
 <br>
 <br>
-
-## Evaluation Criteria:
-
-| Criteria                         | Marks |
-| -------------------------------- | ----- |
-| Game Design & Creativity         | 10    |
-| Functionality & Playability      | 30    |
-| Documentation (GDD + Assignment) | 30    |
-| Presentation                     | 20    |
-| Teamwork & Problem Solving       | 10    |
-| Total                            | 100   |

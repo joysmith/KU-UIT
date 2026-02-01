@@ -1,17 +1,24 @@
-# 🎮 Game Development Project Assignment – B.Sc. 5th Semester
-
-<br>
-
-### Code of Conduct [click me](https://github.com/joysmith/KU-UIT/blob/main/Game%20programming/assets/assignment/code_of_conduct.md)
+# 🎮 IoT Project Assignment – AIML. 4th Semester
 
 <br>
 <br>
 
 ## Objective:
 
-<img src="../images/promo.jpg" width="700">
+<img src="../lab/assets/images/iot.png" width="700">
 
-Design and develop a simple, playable game using a game engine of your choice. This project aims to provide hands-on experience in game design, development, documentation, and presentation.
+Design and develop a working IoT-based smart system using sensors, microcontrollers, and cloud or mobile interfaces.
+
+This project provides practical experience in:
+
+- Embedded systems
+- Sensor integration
+- Wire/Wireless communication
+- Real-time monitoring
+- Dashboard/app development
+- Documentation & presentation
+
+Students must build a functional prototype, not just simulation.
 
 <br>
 <br>
@@ -27,16 +34,12 @@ Design and develop a simple, playable game using a game engine of your choice. T
 
 ## Allowed Tools & Engines:
 
-You are free to use any game engine or framework such as:
+You are free to use any micro-controller such as:
 
-- Unity
-- Unreal Engine
-- Godot
-- Phaser
-- Pygame
-- Construct
-- GameMaker
-- Or any other engine you are comfortable with.
+- Arduino (Uno/Nano/ESP8266/ESP32)
+- Raspberry Pi/pico/zero
+- NodeMCU
+- Any IoT development board
 
 <br>
 <br>
@@ -63,111 +66,94 @@ A detailed design document including:
 Should include:
 
 1. Title & Team Introduction
-1. Game Concept Overview
-1. Game Design & Mechanics
-1. Development Process / Tools Used
-1. Screenshots or Demo Video
-1. Challenges Faced & How Resolved
-1. Conclusion & Future Scope
+1. Problem Statement
+1. Proposed IoT Solution
+1. System Architecture & Components
+1. Development Process
+1. Demo Screenshots/Video
+1. Challenges & Future Scope
 
-### 3. Working Game (Playable)
+### 3. Assignment File (Minimum 10 Pages excluding Index, cover)
 
-1. Must be in a working, playable state.
-1. Can be 2D or 3D.
-1. Must include basic start, play, and end/game over functionality.
-1. Submission formats: .exe, .apk, Web build, or GitHub link with instructions.
+You must submit a Docx-->pdf file in the following format (structure below).
 
-### 4. Assignment File (Minimum 10 Pages excluding Index, cover)
+Assignment File (Minimum 10 Pages)
+Required Format
+Cover Page
 
-You must submit a Docx file in the following format (structure below).
+Project Title
 
-- Assignment File Format (10+ Pages Minimum)
-- Project Title
-- Course Name: BSc
-- Semester: 5th
-- Name(s) of Students with Roll Numbers
-- Team Leader Name
-- Submitted to: [Instructor Name]
-- Submission Date
+Course: BSc
 
-1. **Introduction**
+Semester: 5th
 
-- Brief about the game concept
-- Purpose of the game
-- Type (2D/3D, casual, platformer, puzzle, etc.)
+Student Names & Roll Numbers
 
-<br>
+Team Leader
 
-2. **Game Design Document Summary**
+Instructor Name
 
-- Include summarized version of your GDD with key sections like:
-- Game mechanics
-- Story or theme
-- Level/environment design
-- Controls
+Submission Date
 
-<br>
+1. Introduction
 
-3. **Technology Stack**
+- Brief about the problem
+- Need for IoT solution
+- Objectives
 
-- Game engine used
-- Programming languages
-- Tools for graphics/audio/UI
-- Platform targeted (Windows, Android, Web, etc.)
+2. System Design Document Summary
 
-<br>
+- Architecture
+- Block diagram
+- Sensors/actuators
+- Communication protocol
 
-4. **Development Process**
+3. Technology Stack
+
+- Board used
+- Programming language
+- Tools
+
+4. Development Process
 
 - Planning
-- Roles of team members
-- Stages of development
-- Screenshots of development in progress
+- Roles
+- Implementation stages
+- Circuit building
+- Screenshots
 
-<br>
+5. Challenges Faced
 
-5. **Challenges Faced**
+- Hardware issues
+- Debugging
+- Connectivity problems
+- Team coordination
 
-- Technical issues
-- Team collaboration issues
-- Creative blocks
-- How you overcame them
+6. Final System Screenshots
 
-<br>
+Include:
 
-6. **Screenshots of the Final Game**
+- Hardware setup
+- Circuit
+- Dashboard/app
+- Live readings
+- Control action
 
-- Include at least 4–5 screenshots of the working game (main menu, gameplay, level, game over screen, etc.)
+7. Testing & Feedback
 
-<br>
+- Who tested?
 
-7. **Testing & Feedback**
+- Observations
 
-- Who tested your game (friends, classmates)?
-- What feedback did you receive?
-- What improvements were made based on feedback?
+- Improvements made
 
-<br>
+8. Conclusion
 
-8. **Conclusion**
+- What was learned
 
-- What did your team learn?
-- What would you do differently next time?
+- Skills gained
 
-<br>
-
-9. **References**
-
-- Any tutorials, assets, tools, or libraries used.
-- Credit sources for images, sounds, and other assets.
-
-<br>
-
-10. **Appendix (Optional)**
-
-- Extra screenshots
-- Code snippets
-- Flowcharts or diagrams
+- Future enhancements
 
 <br>
 <br>

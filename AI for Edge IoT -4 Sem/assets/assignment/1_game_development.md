@@ -153,8 +153,7 @@ Include:
 ## Important Dates:
 
 - Final Submission & Presentation:
-- 16 December 2026
-- Submission should be done before 7th November 2025, 5:00 PM.
+- 16 March 2026
 
 <br>
 <br>

@@ -160,8 +160,8 @@ Include:
 
 ## How to Submit:
 
-- Presentation: PowerPoint (.pptx)
-- Assignment file: Scanned PDF of individual written record
+- Presentation: PowerPoint (.pptx), **Name_KUid**
+- Assignment file: PDF of individual written record, **Name_KUid**
 
 <br>
 <br>

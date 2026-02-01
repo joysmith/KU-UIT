@@ -5,9 +5,9 @@
 
 ## Objective:
 
-<img src="../lab/assets/images/iot.png" width="700">
+<img src="../lab/assets/images/iot.png" width="200">
 
-Design and develop a working IoT-based smart system using sensors, microcontrollers, and cloud or mobile interfaces.
+Design and develop a working IoT-based smart system using sensors, micro-controllers, and cloud or mobile interfaces.
 
 This project provides practical experience in:
 
@@ -36,9 +36,9 @@ Students must build a functional prototype, not just simulation.
 
 You are free to use any micro-controller such as:
 
-- Arduino (Uno/Nano/ESP8266/ESP32)
+- Arduino (Uno/Nano)
 - Raspberry Pi/pico/zero
-- NodeMCU
+- NodeMCU(ESP8266/ESP32)
 - Any IoT development board
 
 <br>
@@ -48,20 +48,7 @@ You are free to use any micro-controller such as:
 
 #### Each team must submit the following:
 
-### 1. Game Design Document (GDD)
-
-A detailed design document including:
-
-1. Game overview and concept
-1. Genre and platform
-1. Target audience
-1. Gameplay mechanics
-1. Level design (at least one level)
-1. Characters and story (if applicable)
-1. Art & audio (can use open-source assets with credits)
-1. UI/UX mockups or wireframes
-
-### 2. Presentation (Minimum 7 Slides – PowerPoint)
+### 1. Presentation (Minimum 7 Slides – PowerPoint)
 
 Should include:
 

@@ -75,11 +75,15 @@ Should include:
 - Instructor Name
 - Submission Date
 
+<br>
+
 1. Introduction
 
 - Brief about the problem
 - Need for IoT solution
 - Objectives
+
+<br>
 
 2. System Design Document Summary
 
@@ -88,11 +92,15 @@ Should include:
 - Sensors/actuators
 - Communication protocol
 
+<br>
+
 3. Technology Stack
 
 - Board used
 - Programming language
 - Tools
+
+<br>
 
 4. Development Process
 
@@ -102,12 +110,16 @@ Should include:
 - Circuit building
 - Screenshots
 
+<br>
+
 5. Challenges Faced
 
 - Hardware issues
 - Debugging
 - Connectivity problems
 - Team coordination
+
+<br>
 
 6. Final System Screenshots
 
@@ -119,6 +131,8 @@ Include:
 - Live readings
 - Control action
 
+<br>
+
 7. Testing & Feedback
 
 - Who tested?
@@ -126,6 +140,8 @@ Include:
 - Observations
 
 - Improvements made
+
+<br>
 
 8. Conclusion
 

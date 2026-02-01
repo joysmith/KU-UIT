@@ -60,7 +60,10 @@ Should include:
 1. Demo Screenshots/Video
 1. Challenges & Future Scope
 
-### 3. Assignment File (Minimum 10 Pages excluding Index, cover)
+<br>
+<br>
+
+### 2. Assignment File (Minimum 10 Pages excluding Index, cover)
 
 **You must submit a Docx-->pdf file in the following format (structure below).**
 

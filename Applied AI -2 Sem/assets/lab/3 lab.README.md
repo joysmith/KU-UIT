@@ -1,5 +1,4 @@
-# 3. Implementing DFS in 2d array
-
+# 3. Implementing DFS 
 ### Uses of DFS:
 
 1. Solving puzzles: Sudoku, mazes, word games.
@@ -47,7 +46,7 @@ print("DFS Order:", visited)
 <br>
 <br>
 
-# Implementing BFS in 2d array
+# Implementing BFS 
 
 ### Uses of BFS:
 

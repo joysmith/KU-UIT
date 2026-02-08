@@ -25,4 +25,4 @@
 
 # 2. 🧪 C++ refresher <a id='1'></a>
 
-- [ ] 1.  [C++ Basic]()
+- [ ] 1.  [C++ Basic](https://github.com/joysmith/KU-UIT/blob/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/exercise/index.md)

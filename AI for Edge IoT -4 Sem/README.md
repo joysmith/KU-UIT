@@ -25,4 +25,4 @@
 
 # 2. 🧪 C++ refresher <a id='1'></a>
 
-- [ ] 1.  [click me]()
+- [ ] 1.  [C++ Basic]()

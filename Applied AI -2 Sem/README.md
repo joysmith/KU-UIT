@@ -69,7 +69,7 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 
 #### Visual
 1. [Path finder](https://qiao.github.io/PathFinding.js/visual/)
-2. [Visual Algo]https://visualgo.net/en 
+2. [Visual Algo](https://visualgo.net/en) 
 
 #### Lab
 - [ ] 1. Python Basics, Python Data Structures, Python Programming Fundamentals [click me]

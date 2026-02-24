@@ -67,6 +67,11 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 
 ### Part B
 
+#### Visual
+1. [Path finder](https://qiao.github.io/PathFinding.js/visual/)
+2. [Visual Algo]https://visualgo.net/en 
+
+#### Lab
 - [ ] 1. Python Basics, Python Data Structures, Python Programming Fundamentals [click me]
 - [ ] 2. Working with Data in Python, Working with Numpy Arrays and Simple APIs [click me]()
 - [ ] 3. Implement BFS and DFS compare path costs and nodes expanded [click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/3%20lab.README.md)

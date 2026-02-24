@@ -1,4 +1,4 @@
-Simplifed Backtracking
+## Implement backtracking with forward checking for Sudoku or n-queens
 
 ```py
 class QueensProblem:

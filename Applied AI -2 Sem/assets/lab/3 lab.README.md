@@ -1,51 +1,3 @@
-# 3. Implementing DFS 
-### Uses of DFS:
-
-1. Solving puzzles: Sudoku, mazes, word games.
-1. Searching files & folders: Opening folders inside folders.
-1. Website links: Visiting one full website path before another.
-1. Artificial Intelligence: Trying many choices in games like chess.
-1. Maps: Checking all possible paths.
-
-```py
-# DFS means go deep first, then come back
-
-# Step 1: create the tree using dictionary
-tree = {
-    9: [6, 12],
-    6: [1, 4],
-    12: [34, 45],
-    1: [],
-    4: [],
-    34: [],
-    45: []
-}
-
-# Step 2: DFS function using recursion
-def dfs(node, visited):
-    visited.append(node)   # visit the node first
-
-    # go to each child one by one (go deep)
-    for child in tree[node]:
-        dfs(child, visited)
-
-# Step 3: start DFS
-visited = []
-dfs(9, visited)
-
-print("DFS Order:", visited)
-
-
-
-# Output
-# DFS Order: [9, 6, 1, 4, 12, 34, 45]
-
-
-```
-
-<br>
-<br>
-
 # Implementing BFS 
 
 ### Uses of BFS:
@@ -57,46 +9,170 @@ print("DFS Order:", visited)
 1. Grids and boards: Visiting nearby boxes first.
 
 ```py
-# BFS means visiting nodes level by level
 
-from collections import deque   # special list that helps remove from front easily
+class Node:
 
-# Step 1: Create the tree using a dictionary
-tree = {
-    9: [6, 12],     # 9 has two children
-    6: [1, 4],      # 6 has two children
-    12: [34, 45],   # 12 has two children
-    1: [],          # leaves have no children
-    4: [],
-    34: [],
-    45: []
-}
-
-# Step 2: BFS function
-def bfs(start):
-    queue = deque([start])   # put first node in the queue
-    visited = []             # store visited nodes
-
-    while queue:             # repeat until queue is empty
-        node = queue.popleft()   # take first node (FIFO rule)
-        visited.append(node)     # save it
-
-        # add all children of this node to queue
-        for child in tree[node]:
-            queue.append(child)
-
-    return visited
+    def __init__(self, name):
+        self.name = name
+        self.adjacency_list = []
+        self.visited = False
 
 
-# Step 3: Run BFS starting from root (9)
-result = bfs(9)
+def breadth_first_search(start_node):
 
-print("BFS Order:", result)
+    # FIFO: first item we insert will be the first one to take out
+    queue = [start_node]
+    start_node.visited = True
 
-# Output
-# BFS Order: [9, 6, 12, 1, 4, 34, 45]
+    # we keep iterating (considering the neighbors) until the queue becomes empty
+    while queue:
+
+        # remove and return the first item we have inserted into the list
+        actual_node = queue.pop(0)
+        print(actual_node.name)
+
+        # let's consider the neighbors of the actual_node one by one
+        for n in actual_node.adjacency_list:
+            if not n.visited:
+                n.visited = True
+                queue.append(n)
+
+
+if __name__ == '__main__':
+
+    # we can create the nodes or vertices
+    node1 = Node("A")
+    node2 = Node("B")
+    node3 = Node("C")
+    node4 = Node("D")
+
+    # we have to handle the neighbors
+    node1.adjacency_list.append(node2)
+    node2.adjacency_list.append(node3)
+    node2.adjacency_list.append(node4)
+    node3.adjacency_list.append(node4)
+
+    # run the BFS
+    breadth_first_search(node1)
 
 ```
+
+
+
+<br>
+<br>
+
+#  Implementing DFS 
+### Uses of DFS:
+
+1. Solving puzzles: Sudoku, mazes, word games.
+1. Searching files & folders: Opening folders inside folders.
+1. Website links: Visiting one full website path before another.
+1. Artificial Intelligence: Trying many choices in games like chess.
+1. Maps: Checking all possible paths.
+
+
+
+#### Iterative solution
+```py
+
+class Node:
+
+    def __init__(self, name):
+        self.name = name
+        self.adjacency_list = []
+        self.visited = False
+
+
+def depth_first_search(start_node):
+
+    # that we need a LIFO: last item we insert is the first one we take out
+    stack = [start_node]
+
+    # let's iterate until the stack becomes empty
+    while stack:
+
+        # the pop() function returns with the last item we have inserted - O(1)
+        actual_node = stack.pop()
+        actual_node.visited = True
+        print(actual_node.name)
+
+        for n in actual_node.adjacency_list:
+            # if the node has not been visited so far
+            if not n.visited:
+                # insert the item into the stack
+                stack.append(n)
+
+
+if __name__ == '__main__':
+
+    # first we have to create the vertices (nodes)
+    node1 = Node("A")
+    node2 = Node("B")
+    node3 = Node("C")
+    node4 = Node("D")
+    node5 = Node("E")
+
+    # handle and set the neighbors accordingly
+    node1.adjacency_list.append(node2)
+    node1.adjacency_list.append(node3)
+    node2.adjacency_list.append(node4)
+    node4.adjacency_list.append(node5)
+
+    # run the DFS
+    depth_first_search(node1)
+```
+
+<br>
+
+#### Recursive solution
+
+```py
+
+class Node:
+
+    def __init__(self, name):
+        self.name = name
+        self.adjacency_list = []
+        self.visited = False
+
+
+def depth_first_search(node):
+
+    node.visited = True
+    print(node.name)
+
+    for n in node.adjacency_list:
+        if not n.visited:
+            depth_first_search(n)
+
+
+if __name__ == '__main__':
+
+    # first we have to create the vertices (nodes)
+    node1 = Node("A")
+    node2 = Node("B")
+    node3 = Node("C")
+    node4 = Node("D")
+    node5 = Node("E")
+
+    # handle and set the neighbors accordingly
+    node1.adjacency_list.append(node2)
+    node1.adjacency_list.append(node3)
+    node2.adjacency_list.append(node4)
+    node4.adjacency_list.append(node5)
+
+    # run the DFS
+    depth_first_search(node1)
+
+
+```
+
+
+
+
+<br>
+<br>
 
 ### BFS Vs DFS
 

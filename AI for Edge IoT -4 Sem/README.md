@@ -5,6 +5,7 @@
 <br>
 <br>
 
+2. [BLE Sense](https://github.com/joysmith/KU-UIT/blob/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/lab/2%20lab.README.md)
 ---
 
 # 1. 🧪 Lab<a id='1'></a>

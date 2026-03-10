@@ -1,5 +1,7 @@
 # 6.  Implement minimax and alpha-beta pruning for Tic-Tac-Toe 
 
+<img src="../assets/minimax.png" width="700">
+
 ```py
 # number of rows and number of columns (tic-tac-toe board is 3×3)
 BOARD_SIZE = 3

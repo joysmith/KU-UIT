@@ -77,7 +77,7 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 - [ ] 3. Implement BFS and DFS compare path costs and nodes expanded [click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/3%20lab.README.md)
 - [ ] 4. Implement hill climbing for optimization problem (n-queens/TSP small instance). [click me]()
 - [ ] 5. Implement backtracking for n-queens[click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/5%20lab.README.md)
-- [ ] 6. Implement minimax and alpha-beta pruning for Tic-Tac-Toe [click me]()
+- [ ] 6. Implement minimax and alpha-beta pruning for Tic-Tac-Toe [click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/6%20lab.README.md)
 - [ ] 7. Implement a SAT solver for simple CNF expressions [click me]()
 - [ ] 8. Implement forward/backward chaining on a small rule-based knowledge base [click me]()
 - [ ] 9. Construct a small Bayesian network and perform variable elimination [click me]()

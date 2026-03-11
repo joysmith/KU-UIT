@@ -26,8 +26,8 @@ python --version
    - click on run
    - Click on localhost link
    - Set up owner account
-     - email: joysmith271@gmail.com
-     - password: Jo123456789
+     - email: joyfake@gmail.com
+     - password: Jp123456789
 
 -
 -

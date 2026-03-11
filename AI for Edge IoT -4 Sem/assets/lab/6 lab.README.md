@@ -55,7 +55,6 @@ to check bindng port type
 ollama start
 ```
 
-3. Sign In, page will open. Sign In with google account
 
 
 <br>
@@ -66,10 +65,6 @@ ollama start
 
 ## Part 2
 
-1. Go to n8n site and login with your account [n8n link](https://n8n.io/)
-  - name: joy smith peter
-  - password: Jo.........
-  - user: joy7
 
 2. Go to n8n the  select, + -->workflow --> personal 
 <img src="./Assets/Images/Part 2/01.png" width="700">

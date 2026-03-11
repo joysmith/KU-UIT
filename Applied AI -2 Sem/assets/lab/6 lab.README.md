@@ -4,6 +4,10 @@
 
 ```py
 # number of rows and number of columns (tic-tac-toe board is 3×3)
+# 1   2   3
+# 4   5   6
+# 7   8   9   
+
 BOARD_SIZE = 3
 
 # this is the score given when someone wins
@@ -74,10 +78,17 @@ class TicTacToe:
     def is_winning(self, player):
 
         # check diagonal (left top to right bottom)
+        # O _ _
+        # _ O _
+        # _ _ O
         if self.board[1] == player and self.board[5] == player and self.board[9] == player:
             return True
 
+
         # check diagonal (right top to left bottom)
+        # _ _ O
+        # _ O _
+        # O _ _
         if self.board[3] == player and self.board[5] == player and self.board[7] == player:
             return True
 
@@ -85,24 +96,33 @@ class TicTacToe:
         for i in range(BOARD_SIZE):
 
             # check rows (3 in same row)
+            # i = 0, 1 , 2
+            # O O O
+            # _ _ _
+            # _ _ _
             if self.board[3 * i + 1] == player and self.board[3 * i + 2] == player \
                     and self.board[3 * i + 3] == player:
                 return True
 
             # check columns (3 in same column)
+            # i = 0, 1 , 2
+            # O _ _
+            # O _ _
+            # O _ _
             if self.board[i + 1] == player and self.board[i + 4] == player \
                     and self.board[i + 7] == player:
                 return True
 
     # check if game is draw (no empty box)
     def is_draw(self):
-        for position in self.board.keys():
+        for position in self.board.keys(): # give key
             if self.board[position] == ' ':
-                return False
+                return False # board is not empty there are still space avaialbe
         return True
 
     # player turn
     def move_player(self):
+        # type casting
         position = int(input("Enter the position for 'O':  "))  # ask player
         self.update_player_position(self.player, position)
 
@@ -173,7 +193,7 @@ class TicTacToe:
 
 # this part starts the game
 if __name__ == '__main__':
-    # make empty board (9 boxes)
+    # make empty board (9 boxes) use dictionary data structure
     board = {1: ' ', 2: ' ', 3: ' ',
              4: ' ', 5: ' ', 6: ' ',
              7: ' ', 8: ' ', 9: ' '}

@@ -16,7 +16,7 @@
 - [ ] 3.  [click me]()
 - [ ] 4.  [click me]()
 - [ ] 5.  [click me]()
-- [ ] 6.  [click me]()
+- [ ] 6. Setting up Agentic AI  [click me](https://github.com/joysmith/KU-UIT/blob/main/AI%20for%20Edge%20IoT%20-4%20Sem/assets/lab/6%20lab.README.md)
 - [ ] 7.  [click me]()
 - [ ] 8.  [click me]()
 - [ ] 9.  [click me]()

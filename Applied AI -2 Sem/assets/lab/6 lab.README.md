@@ -1,5 +1,7 @@
 # 6.  Implement minimax and alpha-beta pruning for Tic-Tac-Toe 
 
+#### Dictionary data structuer 
+
 <img src="../assets/minimax.png" width="700">
 
 ```py
@@ -201,3 +203,24 @@ if __name__ == '__main__':
     game = TicTacToe(board)   # create game
     game.run()                # start game
 ```
+
+
+#### Computer performing minmax mave "GAME TREE"
+
+<img src="../assets/6 lab/1.png" width="700">
+
+<img src="../assets/6 lab/2.png" width="700">
+
+<img src="../assets/6 lab/3.png" width="700">
+
+<img src="../assets/6 lab/4.png" width="700">
+
+<img src="../assets/6 lab/5.png" width="700">
+
+<img src="../assets/6 lab/6.png" width="700">
+
+<img src="../assets/6 lab/7.png" width="700">
+
+<img src="../assets/6 lab/8.png" width="700">
+
+

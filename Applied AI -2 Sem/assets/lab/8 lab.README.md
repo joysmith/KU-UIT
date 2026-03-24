@@ -102,6 +102,9 @@ result = backward_chaining(goal, rules, facts)
 print(f"\nFinal Answer: Is Ravi dry? -> {result}")
 ```
 
+<br>
+<br>
+
 
 ### Challenge Any (12)
 

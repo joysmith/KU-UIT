@@ -1,5 +1,7 @@
 ## 8 Implement forward/backward chaining on a small rule-based knowledge base
 
+<img src="../assets/forward backward chaining" width="700">
+
 Story: "Ravi and the Rainy Day"
 
 Ravi wakes up and looks outside.

@@ -79,7 +79,7 @@ Classification, SVM , Decision Tree, Regression : Linear Regression ,Reinforceme
 - [ ] 5. Implement backtracking for n-queens[click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/5%20lab.README.md)
 - [ ] 6. Implement minimax and alpha-beta pruning for Tic-Tac-Toe [click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/6%20lab.README.md)
 - [ ] 7. Implement a SAT solver for simple CNF expressions [click me]()
-- [ ] 8. Implement forward/backward chaining on a small rule-based knowledge base [click me]()
+- [ ] 8. Implement forward/backward chaining on a small rule-based knowledge base [click me](https://github.com/joysmith/KU-UIT/blob/main/Applied%20AI%20-2%20Sem/assets/lab/8%20lab.README.md)
 - [ ] 9. Construct a small Bayesian network and perform variable elimination [click me]()
 - [ ] 10. Implement a supervised/Unsupervised Model from Kaggle , justify the Model selection, cross-validation, overfitting vs underfitting, evaluation me
 

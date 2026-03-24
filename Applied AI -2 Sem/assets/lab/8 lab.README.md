@@ -101,3 +101,27 @@ result = backward_chaining(goal, rules, facts)
 
 print(f"\nFinal Answer: Is Ravi dry? -> {result}")
 ```
+
+
+### Challenge Any (12)
+
+1. Add a new fact "windy" and display it with other facts.
+1. Add a rule "windy → cold" and test the output.
+1. Change starting fact from "cloudy" to "rain" and observe changes.
+1. Print each fact on a new line instead of a list.
+1. Count total number of facts and print the count.
+1. Change backward chaining goal from "dry" to "umbrella".
+1. Print "No new facts found" when forward chaining stops.
+1. Add rule "cold → wear_jacket" and test it.
+1. Add multiple starting facts like "cloudy" and "windy".
+1. Ensure duplicate facts are not added (explain how it works).
+1. Print all rules in a readable format before execution.
+1. Add rule "rain → wet_ground" and check result.
+1. Change backward chaining goal to "wet_ground".
+1. Add a rule that never gets triggered and explain why.
+1. Modify rules so one result needs two conditions (e.g., "cloudy AND humid → rain").
+1. Create your own story and convert it into rules.
+1. Take user input for starting fact and use it in the program.
+1. Count and print number of steps taken in forward chaining.
+1. Modify backward chaining to print full reasoning path (e.g., dry → umbrella → rain → cloudy).
+1. Add a goal like "snow" and show proper failure message if it cannot be proven.

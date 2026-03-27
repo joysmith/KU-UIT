@@ -35,6 +35,7 @@ or any other melody
 ```
 
 ```js
+// Ode to joy music
 #define BUZZER 8
 
 // Notes
@@ -124,6 +125,11 @@ void loop() {
 }
 ```
 
+
+<br>
+<br>
+
+## Mini Simple Piano
 
 2. piano
 

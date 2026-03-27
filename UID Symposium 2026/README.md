@@ -16,8 +16,10 @@
 	- Click on Verify, then Click on Upload
 
 5. Simulation _Optional_
-    - Simulation tools: [wokwi](https://wokwi.com/)
     - Simulation tools: [cirkitdesigner](https://app.cirkitdesigner.com/)
+    - 01 [Happy Birthday with buzzer](https://app.cirkitdesigner.com/project/9e4ce60e-bb97-4b6d-af90-5df06dac0b38)
+    - 02 [Twinkle Twinkle little star with buzzer controlled with push button](https://app.cirkitdesigner.com/project/a9028b93-60c9-417c-a2f9-fde65e167484) 
+    - 03 [Super Mario with buzzer controlled with push button + LED](https://app.cirkitdesigner.com/project/aae148cf-cd47-47de-8233-a2e0fa615c23)
 
 <br>
 <br>

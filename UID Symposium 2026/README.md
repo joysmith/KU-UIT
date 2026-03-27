@@ -1,6 +1,6 @@
 # UID Symposium 2026
 
-1. Download Arduino Ide https://www.arduino.cc/en/software/
+1. Download Arduino Ide [https://www.arduino.cc/en/software/](click me)
 2. (Optional) Download Driver: In case Arduino Ide couldn't detect Arduino uno board [https://github.com/joysmith/KU-UIT/raw/refs/heads/main/UID%20Symposium%202026/assets/driver/arduino%20driver.zip](click me)
 3. Testing Arduino UNO board: Run blink LED Example
 	Go to File--> Example--> Basic--> Blink

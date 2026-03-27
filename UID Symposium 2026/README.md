@@ -9,7 +9,7 @@
 3. Testing Arduino UNO board: Run blink LED Example
 	- Go to File--> Example--> Basic--> Blink
 	- Select Arduino Uno board: Tools--> Board--> Arduino AVR Board-->Arduino uno
-	- Select Port: Tools--> Ports--> <Select Com port>
+	- Select Port: Tools--> Ports--> Select Com port
 	- Click on Verify, then Click on Upload
 
 4. Editing Arduino Blink LED code: make LED Blink faster

@@ -133,7 +133,7 @@ void loop() {
 
 ## Mini Simple Piano
 
-2. piano
+1. piano
 
 ```js
 #define BUZZER 10

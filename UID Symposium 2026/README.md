@@ -8,7 +8,6 @@
 	- Select Arduino Uno board: Tools--> Board--> Arduino AVR Board-->Arduino uno
 	- Select Port: Tools--> Ports--> <Select Com port>
 	- Click on Verify, then Click on Upload
-
 4. Editing Arduino Blink LED code: make LED Blink faster
 	- Click on Verify, then Click on Upload
 

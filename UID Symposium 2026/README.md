@@ -112,6 +112,7 @@ void loop() {
 
 2. piano
 
+```js
 #define BUZZER 10
 
 int buttons[] = {2,3,4,5,6,7,8,9};
@@ -151,7 +152,7 @@ void loop() {
     noTone(BUZZER); // stop sound
   }
 } 
-
+```
 
 
 

@@ -35,93 +35,64 @@ or any other melody
 ```
 
 ```js
-// Ode to joy music
 #define BUZZER 10
 
-// Notes
-#define NOTE_E4 330
-#define NOTE_F4 349
-#define NOTE_G4 392
-#define NOTE_A4 440
-#define NOTE_B4 494
-#define NOTE_C5 523
-#define NOTE_D5 587
-
-int tempo = 700; // slower tempo
-
-// Full melody (extended)
-int melody[] = {
-
-  // Phrase A
-  NOTE_E4, NOTE_E4, NOTE_F4, NOTE_G4,
-  NOTE_G4, NOTE_F4, NOTE_E4, NOTE_D5,
-  NOTE_C5, NOTE_C5, NOTE_D5, NOTE_E4,
-  NOTE_E4, NOTE_D5, NOTE_D5,
-
-  // Phrase A repeat
-  NOTE_E4, NOTE_E4, NOTE_F4, NOTE_G4,
-  NOTE_G4, NOTE_F4, NOTE_E4, NOTE_D5,
-  NOTE_C5, NOTE_C5, NOTE_D5, NOTE_E4,
-  NOTE_D5, NOTE_C5, NOTE_C5,
-
-  // Phrase B (variation)
-  NOTE_D5, NOTE_D5, NOTE_E4, NOTE_C5,
-  NOTE_D5, NOTE_E4, NOTE_F4, NOTE_E4,
-  NOTE_C5, NOTE_D5, NOTE_E4, NOTE_F4,
-  NOTE_E4, NOTE_D5, NOTE_C5,
-
-  // Phrase A (final return)
-  NOTE_E4, NOTE_E4, NOTE_F4, NOTE_G4,
-  NOTE_G4, NOTE_F4, NOTE_E4, NOTE_D5,
-  NOTE_C5, NOTE_C5, NOTE_D5, NOTE_E4,
-  NOTE_D5, NOTE_C5, NOTE_C5
-};
-
-// Durations
-int durations[] = {
-
-  // A
-  4,4,4,4,
-  4,4,4,4,
-  4,4,4,4,
-  4,4,2,
-
-  // A repeat
-  4,4,4,4,
-  4,4,4,4,
-  4,4,4,4,
-  4,4,2,
-
-  // B
-  4,4,4,4,
-  4,4,4,4,
-  4,4,4,4,
-  4,4,2,
-
-  // A final
-  4,4,4,4,
-  4,4,4,4,
-  4,4,4,4,
-  4,4,2
-};
+// Notes frequencies
+#define NOTE_C4  262
+#define NOTE_D4  294
+#define NOTE_E4  330
+#define NOTE_F4  349
+#define NOTE_G4  392
+#define NOTE_A4  440
+#define NOTE_AS4 466
+#define NOTE_C5  523
+#define NOTE_D5  587
 
 void setup() {
-  int size = sizeof(melody) / sizeof(int);
-
-  for (int i = 0; i < size; i++) {
-    int noteDuration = tempo / durations[i];
-
-    tone(BUZZER, melody[i], noteDuration);
-
-    int pause = noteDuration * 1.5;
-    delay(pause);
-
-    noTone(BUZZER);
-  }
+  playHappyBirthday();
 }
 
 void loop() {
-  // Plays once
+  // nothing here
+}
+
+void playTone(int note, int duration) {
+  tone(BUZZER, note, duration);
+  delay(duration * 1.3); // slight pause between notes
+  noTone(BUZZER);
+}
+
+void playHappyBirthday() {
+  // Happy Birthday melody
+
+  playTone(NOTE_C4, 300);
+  playTone(NOTE_C4, 200);
+  playTone(NOTE_D4, 500);
+  playTone(NOTE_C4, 500);
+  playTone(NOTE_F4, 500);
+  playTone(NOTE_E4, 1000);
+
+  playTone(NOTE_C4, 300);
+  playTone(NOTE_C4, 200);
+  playTone(NOTE_D4, 500);
+  playTone(NOTE_C4, 500);
+  playTone(NOTE_G4, 500);
+  playTone(NOTE_F4, 1000);
+
+  playTone(NOTE_C4, 300);
+  playTone(NOTE_C4, 200);
+  playTone(NOTE_C5, 500);
+  playTone(NOTE_A4, 500);
+  playTone(NOTE_F4, 500);
+  playTone(NOTE_E4, 500);
+  playTone(NOTE_D4, 1000);
+
+  playTone(NOTE_AS4, 300);
+  playTone(NOTE_AS4, 200);
+  playTone(NOTE_A4, 500);
+  playTone(NOTE_F4, 500);
+  playTone(NOTE_G4, 500);
+  playTone(NOTE_F4, 1000);
 }
 ```
 

@@ -22,7 +22,7 @@
     - 03 [Super Mario with buzzer controlled with push button + LED](https://app.cirkitdesigner.com/project/aae148cf-cd47-47de-8233-a2e0fa615c23)
     - 04 [Mini piano](https://app.cirkitdesigner.com/project/ed31b82a-8ca5-4953-ad53-ba3a7b24c813)
     - 05 [Melody Beat box](https://app.cirkitdesigner.com/project/e21881ca-0a24-462b-b530-3df98f946eb5)
-    - 06 []()
+    - 06 [Alien synthesizer](https://app.cirkitdesigner.com/project/907be53b-f4d4-4f09-97f8-2f109c556102)
 
 <br>
 <br>

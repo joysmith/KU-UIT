@@ -36,7 +36,7 @@ or any other melody
 
 ```js
 // Ode to joy music
-#define BUZZER 8
+#define BUZZER 10
 
 // Notes
 #define NOTE_E4 330
@@ -125,6 +125,8 @@ void loop() {
 }
 ```
 
+2. Connect +ive end of buzzer to ardunino pin no 10 and other end to GND arduino pin.
+  	- Click on Verify, then Click on Upload
 
 <br>
 <br>

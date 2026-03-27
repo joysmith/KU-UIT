@@ -16,9 +16,10 @@
 <br>
 
 ## VIBE CODING:
+
 1. Go to ChatGPT and type prompt "generate happy birthday tune melody for arduino uno also tell connection pins"
 
----------------------------------------------------------------------------------------
+```js
 #define BUZZER 8
 
 // Notes
@@ -106,6 +107,7 @@ void setup() {
 void loop() {
   // Plays once
 }
+```
 
 --------------------------------------------------------------------------------------
 

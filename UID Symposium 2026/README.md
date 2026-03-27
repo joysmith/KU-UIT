@@ -15,6 +15,11 @@
 4. Editing Arduino Blink LED code: make LED Blink faster
 	- Click on Verify, then Click on Upload
 
+5. Simulation Optional [click me](click me)
+    - Simulation tools: [Tinker Cad](https://www.tinkercad.com/dashboard)
+    - Simulation tools: [wokwi](https://wokwi.com/)
+    - Simulation tools: [cirkitdesigner](https://app.cirkitdesigner.com/)
+
 <br>
 <br>
 

@@ -1,5 +1,6 @@
 # UID Symposium 2026
 
+## Setting up the system
 1. Download Arduino Ide [click me](https://www.arduino.cc/en/software/)
 2. (Optional) Download Driver: In case Arduino Ide couldn't detect Arduino uno board [click me](https://github.com/joysmith/KU-UIT/raw/refs/heads/main/UID%20Symposium%202026/assets/driver/arduino%20driver.zip)
 3. Testing Arduino UNO board: Run blink LED Example
@@ -9,9 +10,12 @@
 	- Click on Verify, then Click on Upload
 
 4. Editing Arduino Blink LED code: make LED Blink faster
-	Click on Verify, then Click on Upload
+	- Click on Verify, then Click on Upload
 
-VIBE CODING:
+<br>
+<br>
+
+## VIBE CODING:
 1. Go to ChatGPT and type prompt "generate happy birthday tune melody for arduino uno also tell connection pins"
 
 ---------------------------------------------------------------------------------------

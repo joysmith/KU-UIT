@@ -129,7 +129,7 @@ opening, reading, writing, and appending files, Searching and modifying file rec
 
 # 4. Exercise<a id='4'></a>
 
-1. Exercise & Practice [click me]([https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/exercise/index.md](https://github.com/joysmith/cpp))
+1. Exercise & Practice [click me](https://github.com/joysmith/KU-UIT/blob/2025-FGP_5_sem-ADS_5_sem-PPS_1_sem/Problem%20Solving%20and%20Programming/assets/exercise/index.md)
 
 <br>
 <br>
